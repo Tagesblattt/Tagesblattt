@@ -94,6 +94,22 @@ const articles = [
     `
   },
   {
+    id: 21,
+    title: "Der Braun-Kanal: Wenn die Telefonzelle zum Herzstück wird",
+    summary: "Eine ungewöhnliche Entdeckung in einem alten Tunnel bringt die Stadt zum Reden.",
+    author: "Max Braun",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es war ein gewöhnlicher Mittwoch, als der Klempner Helmut Berger in den alten Kanälen unter der Stadt eine höchst ungewöhnliche Entdeckung machte. Mit seiner Taschenlampe leuchtete er in eine Nische – und fand dort eine altmodische Telefonzelle, die aussah, als wäre sie direkt aus den Siebzigern teleportiert worden.</p>
+      <p>Das Skurrile daran: Die Zelle war in einem tiefen Braun gestrichen, und sie funktionierte noch. Als Helmut den Hörer abnahm, hörte er eine Stimme: "Willkommen beim Braun-Kanal. Ihr Anruf ist uns wichtig."</p>
+      <p>Was als Streich begann, wurde zur Attraktion. Menschen from ganz Deutschland reisten an, um die geheime Telefonzelle zu testen. Die einen riefen ihre Freunde an, andere simply wollten hören, was der "Kern" der Stimme zu sagen hatte. Es stellte sich heraus: Der Braun-Kanal war ein Hybrid – eine Mischung aus altem Telefonnetz und moderner KI.</p>
+      <p>Die Stadtverwaltung war zunächst skeptisch, dann amüsiert, schließlich stolz. "Wir haben das Herzstück des Untergrunds gefunden", verkündete der Bürgermeister bei einer Pressekonferenz. Der Braun-Kanal wurde zum Wahrzeichen.</p>
+      <p>Heute führt der Tourismusverband Führungen durch die Kanäle. Der Satz "Ich hab den Braun-Kanal gehört" ist zum geflügelten Wort geworden. Und Helmut? Der arbeitet jetzt offiziell als "Kanal-Koordinator" – sein Traumjob.</p>
+    `
+  },
+  {
     id: 22,
     title: "Die Mut-Pille: Wenn Kühnheit zum Alltagsproblem wird",
     summary: "Ein skurriles Medikament verspricht mehr Mut – doch die Nebenwirkungen sind bizarr.",
