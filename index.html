@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tagesblatt - Ihr Online-Magazin</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Georgia', serif;
+            background-color: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        
+        header {
+            background: #1a1a1a;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 2.5rem;
+            letter-spacing: 2px;
+            margin-bottom: 0.5rem;
+        }
+        
+        header p {
+            font-style: italic;
+            opacity: 0.8;
+        }
+        
+        nav {
+            background: #2d2d2d;
+            padding: 1rem;
+            text-align: center;
+        }
+        
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+            font-family: Arial, sans-serif;
+            font-size: 0.9rem;
+        }
+        
+        nav a:hover {
+            text-decoration: underline;
+        }
+        
+        main {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        
+        .featured {
+            grid-column: 1 / -1;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0;
+            margin-bottom: 2rem;
+            background: white;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+            cursor: pointer;
+            transition: transform 0.3s;
+        }
+        
+        .featured:hover {
+            transform: scale(1.01);
+        }
+        
+        .featured-image {
+            height: 300px;
+            background: #ddd;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        
+        .featured-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .featured-image-placeholder {
+            font-size: 5rem;
+            font-weight: bold;
+            color: #999;
+        }
+        
+        .featured-content {
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        
+        .featured h2 {
+            font-size: 1.8rem;
+            margin-bottom: 1rem;
+            line-height: 1.3;
+        }
+        
+        .featured p {
+            font-size: 1.1rem;
+            color: #555;
+        }
+        
+        .featured .category {
+            align-self: flex-start;
+            margin-bottom: 1rem;
+        }
+        
+        .featured .meta {
+            margin-top: 1.5rem;
+        }
+        
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 2rem;
+        }
+        
+        .card {
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+        }
+        
+        .card-image {
+            height: 180px;
+            background: #ddd;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        
+        .card-image img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+        .card-image-placeholder {
+            font-size: 3rem;
+            font-weight: bold;
+            color: #999;
+        }
+        
+        .card-content {
+            padding: 1.5rem;
+        }
+        
+        .category {
+            display: inline-block;
+            background: #e8e8e8;
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-family: Arial, sans-serif;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 0.75rem;
+        }
+        
+        .card h2 {
+            font-size: 1.25rem;
+            margin-bottom: 0.75rem;
+            line-height: 1.3;
+        }
+        
+        .card p {
+            color: #666;
+            font-size: 0.95rem;
+        }
+        
+        .meta {
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid #eee;
+            font-size: 0.85rem;
+            color: #999;
+            font-family: Arial, sans-serif;
+        }
+        
+        .archive-section {
+            margin-top: 4rem;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        
+        .archive-header {
+            background: #2d2d2d;
+            color: white;
+            padding: 1rem 1.5rem;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-family: Arial, sans-serif;
+            font-weight: bold;
+        }
+        
+        .archive-header:hover {
+            background: #3d3d3d;
+        }
+        
+        .archive-toggle {
+            font-size: 1.5rem;
+            transition: transform 0.3s;
+        }
+        
+        .archive-toggle.open {
+            transform: rotate(180deg);
+        }
+        
+        .archive-list {
+            display: none;
+            padding: 0;
+        }
+        
+        .archive-list.open {
+            display: block;
+        }
+        
+        .archive-item {
+            padding: 1rem 1.5rem;
+            border-bottom: 1px solid #eee;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        
+        .archive-item:last-child {
+            border-bottom: none;
+        }
+        
+        .archive-item:hover {
+            background: #f9f9f9;
+        }
+        
+        .archive-item .category {
+            background: #666;
+            color: white;
+            font-size: 0.7rem;
+        }
+        
+        .archive-item h3 {
+            font-size: 1rem;
+            margin: 0.5rem 0;
+        }
+        
+        .archive-item p {
+            font-size: 0.85rem;
+            color: #888;
+        }
+        
+        footer {
+            background: #1a1a1a;
+            color: white;
+            text-align: center;
+            padding: 2rem;
+            margin-top: 4rem;
+            font-family: Arial, sans-serif;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>TAGESBLATT</h1>
+        <p>Ihr Online-Magazin für Nachrichten, Kultur und mehr</p>
+    </header>
+    
+    <nav>
+        <a href="#">Startseite</a>
+        <a href="#">Politik</a>
+        <a href="#">Wirtschaft</a>
+        <a href="#">Kultur</a>
+        <a href="#">Sport</a>
+        <a href="#">Über uns</a>
+    </nav>
+    
+    <main>
+        <div class="grid" id="articles-grid">
+        </div>
+        
+        <div class="archive-section">
+            <div class="archive-header" onclick="toggleArchive()">
+                <span>📁 Archiv</span>
+                <span class="archive-toggle" id="archive-toggle">▼</span>
+            </div>
+            <div class="archive-list" id="archive-list">
+            </div>
+        </div>
+    </main>
+    
+    <footer>
+        <p>&copy; 2026 Tagesblatt. Alle Rechte vorbehalten.</p>
+    </footer>
+    
+    <script src="articles.js"></script>
+    <script>
+        const grid = document.getElementById('articles-grid');
+        
+        let allArticles = [];
+        
+        if (typeof articles !== 'undefined') {
+            articles.forEach(a => {
+                if (!a.bild || a.bild === 'platzhalter.jpg') {
+                    const seed = Math.floor(Math.random() * 9000 + 1000);
+                    a.bild = `https://picsum.photos/${seed}/400/300`;
+                }
+            });
+            allArticles = allArticles.concat(articles);
+        }
+        
+        allArticles.sort((a, b) => b.id - a.id);
+        
+        const maxCards = 7;
+        const visibleArticles = allArticles.slice(0, maxCards);
+        const archiveArticles = allArticles.slice(maxCards);
+        
+        if (visibleArticles.length > 0) {
+            const featured = visibleArticles[0];
+            const featuredCard = document.createElement('div');
+            featuredCard.className = 'featured';
+            featuredCard.onclick = () => window.location.href = `article.html?id=${featured.id}`;
+            
+            featuredCard.innerHTML = `
+                <div class="featured-image">
+                    <img src="${featured.bild || 'platzhalter.jpg'}" alt="${featured.title}" onerror="this.style.display='none'; this.parentElement.innerHTML='<span class=\\'featured-image-placeholder\\'>★</span>'">
+                </div>
+                <div class="featured-content">
+                    <span class="category">${featured.category}</span>
+                    <h2>${featured.title}</h2>
+                    <p>${featured.summary}</p>
+                    <div class="meta">
+                        <span>${featured.author}</span> • <span>${featured.date}</span>
+                    </div>
+                </div>
+            `;
+            
+            grid.appendChild(featuredCard);
+            
+            for (let i = 1; i < visibleArticles.length; i++) {
+                const article = visibleArticles[i];
+                addCard(article, i);
+            }
+        }
+        
+        function addCard(article, index) {
+            const card = document.createElement('div');
+            card.className = 'card';
+            card.onclick = () => window.location.href = `article.html?id=${article.id}`;
+            
+            card.innerHTML = `
+                <div class="card-image">
+                    <img src="${article.bild || 'platzhalter.jpg'}" alt="${article.title}" onerror="this.style.display='none'; this.parentElement.innerHTML='<span class=\\'card-image-placeholder\\'>${article.id}</span>'">
+                </div>
+                <div class="card-content">
+                    <span class="category">${article.category}</span>
+                    <h2>${article.title}</h2>
+                    <p>${article.summary}</p>
+                    <div class="meta">
+                        <span>${article.author}</span> • <span>${article.date}</span>
+                    </div>
+                </div>
+            `;
+            
+            grid.appendChild(card);
+        }
+        
+        const archiveList = document.getElementById('archive-list');
+        
+        archiveArticles.forEach(article => {
+            const item = document.createElement('div');
+            item.className = 'archive-item';
+            item.onclick = () => window.location.href = `article.html?id=${article.id}`;
+            
+            item.innerHTML = `
+                <span class="category">${article.category}</span>
+                <h3>${article.title}</h3>
+                <p>${article.summary}</p>
+            `;
+            
+            archiveList.appendChild(item);
+        });
+        
+        function toggleArchive() {
+            const list = document.getElementById('archive-list');
+            const toggle = document.getElementById('archive-toggle');
+            list.classList.toggle('open');
+            toggle.classList.toggle('open');
+        }
+    </script>
+</body>
+</html>
