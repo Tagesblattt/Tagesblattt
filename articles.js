@@ -60,5 +60,53 @@ const articles = [
       <p>Heute testen Eltern in ganz Deutschland den "Kissen-Test". Das Ergebnis? 9 von 10 Babys krabbeln innerhalb von 30 Sekunden zum nächstgelegenen Kissen – egal ob es ein Sofakissen, ein Zierkissen oder das Kissen des Nachbarn ist.</p>
       <p>Die Wissenschaft hat noch viele Fragen, aber eines ist sicher: Der Kissen-Pfad ist real. Und Eltern sollten besser darauf vorbereitet sein, dass ihre Kleinen eines Tages den Weg zur bequemsten Ecke des Hauses finden werden.</p>
     `
+  },
+  {
+    id: 19,
+    title: "Die Messing-Rebellion: Dorf wehrt sich gegen den Plunder-Express",
+    summary: "Ein kleines Dorf im Nirgendwo wird zum Schauplatz eines ungewöhnlichen Widerstands.",
+    author: "Klaus Brenner",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es begann mit einem Lastwagen. Der alte Heinrich aus dem Dörfchen Kohlweiler sah zum ersten Mal, wie ein riesiger Transporter voller glänzender Messingobjekte die Landstraße hinaufrollte. "Was bringt denn da jemand?", murmelte er skeptisch.</p>
+      <p>Die Antwort kam schneller als erwartet: Der LKW lud seinen Inhalt direkt neben dem alten Backhaus ab. Alte Messinglampen, verrostete Bleche, zerbeulte Kannen – alles Plunder aus längst vergessenen Zeiten. Der Besitzer nannte es "künstlerische Installation". Die Dorfbewohner nannten es: Ärger.</p>
+      <p>Die erste, die Widerstand leistete, war Frau Müller. Sie stellte sich demonstrativ vor ihren Garten und rief: "Wir werden nicht kampflos zusehen, wie ihr unser Dorf in einen Schrottplatz verwandelt!" Die Nachbarn schlossen sich an. Bald darauf trugen alle Transparente mit der Aufschrift: "Kein Messing in unserer Wiese!"</p>
+      <p>Der "Kampf" dauerte ganze drei Tage. Am Ende einigte man sich auf einen Kompromiss: Der Plunder durfte bleiben – aber nur als "Freiluftgalerie" mit ausgewiesenen Besuchszeiten. Heinrich übernahm die Führung. Er nannte sich fortan stolz "Präsident der Messing-Rebellion".</p>
+      <p>Heute ist Kohlweiler ein beliebtes Reiseziel für Touristen, die den "glänzenden Widerstand" bestaunen wollen. Und der Plunder? Der wurde kurzerhand in Kunst verwandelt – ganz ohne Prozess.</p>
+    `
+  },
+  {
+    id: 20,
+    title: "Die Zimt-Revolution: Wenn Gewürz zum politischen Statement wird",
+    summary: "Ein skurriler Trend erobert die Supermärkte – und niemand weiß warum.",
+    author: "Sabine Weber",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es begann alles mit einer einzigen Tüte Zimt im Regal des lokalen Supermarkts. Frau Hansen griff danach – nicht weil sie backen wollte, sondern weil sie das Gefühl hatte, dass dieser Zimt eine wichtige Priorität für ihr Leben sei. "Ich wusste nicht warum", erzählt sie später, "aber ich musste einfach zugreifen."</p>
+      <p>Was als harmloser Einkauf begann, entwickelte sich zur landesweiten Bewegung. Die "Zimt-Rebellen" – wie sie sich selbst nennen – bestehen darauf, dass Zimt mehr ist als ein Gewürz. Es sei eine Theorie des Lebens, ein crucialer Bestandteil jeder Küche. "Ohne Zimt", so ihr Sprecher, "ist das Leben nur halb so wichtig."</p>
+      <p>In den sozialen Medien teilen sie Videos, in denen sie Zimt in absurdien Mengen verwenden. Der Katalog der Rezepte wächst täglich: Zimt-Suppe, Zimt-Pasta, sogar Zimt-Wasser. Die Hersteller melden Engpässe.</p>
+      <p>Experten sind ratlos. "Wir nennen es das 'Zimt-Phänomen'", erklärt Lebensmittelpsychologe Dr. Braun. "Es scheint eine kollektive Fixierung zu sein, die sich verselbstständigt hat."</p>
+      <p>Während die einen lachen, feiern die anderen. Denn eines steht fest: Der Zimt ist zurück – und er hat Priorität.</p>
+    `
+  },
+  {
+    id: 21,
+    title: "Der Braun-Kanal: Wenn die Telefonzelle zum Herzstück wird",
+    summary: "Eine ungewöhnliche Entdeckung in einem alten Tunnel bringt die Stadt zum Reden.",
+    author: "Max Braun",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es war ein gewöhnlicher Mittwoch, als der Klempner Helmut Berger in den alten Kanälen unter der Stadt eine höchst ungewöhnliche Entdeckung machte. Mit seiner Taschenlampe leuchtete er in eine Nische – und fand dort eine altmodische Telefonzelle, die aussah, als wäre sie direkt aus den Siebzigern teleportiert worden.</p>
+      <p>Das Skurrile daran: Die Zelle war in einem tiefen Braun gestrichen, und sie funktionierte noch. Als Helmut den Hörer abnahm, hörte er eine Stimme: "Willkommen beim Braun-Kanal. Ihr Anruf ist uns wichtig."</p>
+      <p>Was als Streich begann, wurde zur Attraktion. Menschen from ganz Deutschland reisten an, um die geheime Telefonzelle zu testen. Die einen riefen ihre Freunde an, andere simply wollten hören, was der "Kern" der Stimme zu sagen hatte. Es stellte sich heraus: Der Braun-Kanal war ein Hybrid – eine Mischung aus altem Telefonnetz und moderner KI.</p>
+      <p>Die Stadtverwaltung war zunächst skeptisch, dann amüsiert, schließlich stolz. "Wir haben das Herzstück des Untergrunds gefunden", verkündete der Bürgermeister bei einer Pressekonferenz. Der Braun-Kanal wurde zum Wahrzeichen.</p>
+      <p>Heute führt der Tourismusverband Führungen durch die Kanäle. Der Satz "Ich hab den Braun-Kanal gehört" ist zum geflügelten Wort geworden. Und Helmut? Der arbeitet jetzt offiziell als "Kanal-Koordinator" – sein Traumjob.</p>
+    `
   }
 ];
