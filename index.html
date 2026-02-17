@@ -328,8 +328,8 @@
         if (typeof articles !== 'undefined') {
             articles.forEach(a => {
                 if (!a.bild || a.bild === 'platzhalter.jpg') {
-                    const seed = Math.floor(Math.random() * 9000 + 1000);
-                    a.bild = `https://picsum.photos/${seed}/400/300`;
+                    const seed = Math.floor(Math.random() * 900 + 100);
+                    a.bild = `https://picsum.photos/id/${seed}/400/300`;
                 }
             });
             allArticles = allArticles.concat(articles);
