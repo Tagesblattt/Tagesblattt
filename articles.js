@@ -322,19 +322,24 @@ const articles = [
     `
   },
   {
-    id: 39,
-    title: "Die Wiederaufbau-Episode: Wenn Frühaufsteher das Dorf retten",
-    summary: "Ein kleines Dorf fand eine ungewöhnliche Lösung für sein größtes Problem – und alle halfen mit.",
-    author: "Andrea Fuchs",
-    date: "17.02.2026",
-    category: "Skurril",
+    id: 40,
+    title: "Die langsame Reise: Wie ich in Bambusstadt das Schnurren lernte",
+    summary: "Eine Reise in das geheimnisvolle Bambusdorf, wo die Zeit anders vergeht – und ein Panda namens Schnuffel alles veränderte.",
+    author: "Claudia Bergmann",
+    date: "18.02.2026",
+    category: "Reise",
     bild: "platzhalter.jpg",
     content: `
-      <p>Es war früher Morgen, als der Bürgermeister von Kleinwalde die Nachricht erhielt: Das alte Rathaus musste dringend abgerissen werden. Die Fenster fielen bereits aus den Rahmen, das Dach war ein Loch. Ein Wiederaufbau war unausweichlich.</p>
-      <p>Doch das Dorf hatte kein Geld. Also beschloss der Bürgermeister, eine ungewöhnliche Methode zu versuchen. Er rief alle Frühaufsteher zusammen. "Wir brauchen euch", verkündete er. "Jeden Morgen, eine Stunde vor der Arbeit."</p>
-      <p>Die Reaktion war überwältigend. 47 Dorfbewohner erschienen pünktlich um 5 Uhr. Sie brachten Werkzeug mit, alte Ziegel, und vor allem: Motivation. Jeden Tag ein bisschen Wiederaufbau, jeden Tag ein neues Fenster, ein neuer Stein.</p>
-      <p>Nach drei Monaten war das Rathaus fertig. Die Episode wurde zur Legende. Heute kommen Touristen aus der ganzen Region, um das "Frühaufsteher-Rathaus" zu bestaunen.</p>
-      <p>Die Moral der Geschichte? Man braucht kein großes Budget – nur Menschen, die früh aufstehen und immer wieder anfangen.</p>
+      <p>Es war ein warmer Morgen im März, als ich meinen Rucksack packte und mich auf den Weg nach Bambusstadt machte. Niemand kannte diesen Ort. Selbst die Landkarten schwiegen sich aus. Aber ich hatte einen Tipp von einer alten Frau im Zug bekommen: "Geh langsam", sagte sie. "Nur langsam wirst du den Ort finden."</p>
+      <p>Der Weg führte durch endlose Wälder, in denen der Wind einen seltsamen Sound hatte – fast wie ein sanftes Summen, das den Rhythmus der Schritte bestimmte. Je weiter ich ging, desto langsamer wurde ich. Nicht weil ich müde war, sondern weil die Umgebung mich dazu einlud.</p>
+      <p>Als ich endlich ankam, stand ich vor einem kleinen Dorf, das aussah, als wäre die Zeit hier stehen geblieben. Die Häuser waren aus Bambus, die Gassen schmal, und überall wuchsen junge Triebe aus dem Boden. Es roch nach Erde und etwas Süßem – wie ein Snack, den ich noch nie zuvor gerochen hatte.</p>
+      <p>Und dann sah ich ihn: Einen Panda, der gemütlich auf einer Bank saß und mich anschaute, als würde er mich schon ewig kennen. Er trug keinen Namen, aber die Einheimischen nannten ihn "Schnuffel". Er war kein gewöhnlicher Panda – er bewegte sich in Zeitlupe, kaute langsam auf Bambusblättern und gab seltsame Laute von sich, die wie ein zufriedenes Schnurren klangen.</p>
+      <p>"Er ist der Wächter des Dorfes", erklärte mir eine alte Frau. "Er zeigt den Besuchern, wie man das Leben genießt – langsam, in Ruhe, mit allen Sinnen."</p>
+      <p>Ich blieb drei Tage. Jeden Morgen wachte ich vom Sound der Vögel auf, aß seltsame Snacks, die die Dorfbewohner für mich zubereiteten, und folgte Schnuffel durch die Felder. Er zeigte mir einen geheimen Teich, in dem das Wasser so klar war, dass ich mein eigenes Gesicht sehen konnte.</p>
+      <p>Am letzten Tag setzte ich mich neben Schnuffel. Er lehnte seinen Kopf an meine Schulter, und ich spürte, wie eine seltsame Zufriedenheit in mir aufstieg – ein Gefühl, das ich nur als "satisfy" beschreiben kann, obwohl das englische Wort nicht ganz passte.</p>
+      <p>Als ich ging, winkte mir Schnuffel mit seiner Pfote. Langsam. Bedächtig. So, wie er alles machte.</p>
+      <p>Zurück im Alltag versuche ich, mir seine Langsamkeit zu bewahren. Wenn ich einen Snack esse, denke ich an Schnuffel. Wenn ich einen Sound höre, der mich beruhigt, lächle ich. Die Reise hat mich gelehrt, dass das Leben nicht immer schnell gehen muss. Manchmal ist die langsamste Route die interessanteste.</p>
+      <p>Ich habe Bambusstadt nicht auf der Karte gefunden. Vielleicht ist das besser so. Manche Orte sollte man nicht suchen – man muss sie einfach finden. Langsam.</p>
     `
   }
 ];
