@@ -125,7 +125,7 @@ const articles = [
       <p>Experten sind begeistert. "Wir nennen es den 'Voidismus'", erklärt Kultursoziologe Dr. Huber. "Die Menschen sehnen sich nach der Leere. Nach dem Nichts. Herr Grün hat das erkannt – und vermarktet es perfekt."</p>
       <p>Heute bietet der Leerführer drei Touren täglich an. Die Warteliste ist drei Monate voll. Und das Beste: Die Teilnehmer gehen mit dem Gefühl nach Hause, etwas Einzigartiges erlebt zu haben – obwohl da nie etwas war.</p>
     `
-  }
+  },
   {
     id: 24,
     title: "Der Sand Röster: Wenn die Wüste zur Post wird",
@@ -143,6 +143,23 @@ const articles = [
       <p>Die Wissenschaft ist skeptisch. "Wir können es nicht erklären", gibt Physiker Dr. Bach zu. "Aber die Muster sind real. Es scheint, als hätte der Sand ein Gedächtnis."</p>
       <p>Wilhelm selbst bleibt bescheiden. "Ich bin nur ein einfacher Rentner, der gerne röstet", sagt er bescheiden. "Und jetzt röstet meine Nachricht die Welt."</p>
       <p>Die Post hat bereits angekündigt, einen neuen Service zu testen: Sandbriefe. Die Antwortzeiten sind allerdings etwas länger – man muss schließlich warten, bis der Sand kühl genug für den Versand ist.</p>
+    `
+  },
+  {
+    id: 25,
+    title: "Der starre Monat: Wenn exakte Neugier das Unmögliche schafft",
+    summary: "Eine Gruppe von Forschern entdeckt, dass ein seemingly nutzloser Monat voller Überraschungen steckt.",
+    author: "Christoph Lang",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es war der neugierigste Februar seit Jahrzehnten. Dr. Helena Brandner stand in ihrem Labor und starrte auf die seltsamen Daten, die ihr Computer ausspuckte. "Das kann nicht sein", murmelte sie. Aber die Zahlen waren unerbittlich exakt.</p>
+      <p>Der "Starre Monat", wie ihn die Wissenschaftler nannten, sollte eigentlich der langweiligste aller Zeiträume sein. Keine Feiertage, keine besonderen Ereignisse – einfach nur vier Wochen zwischen Neujahr und Ostern. Die Menschen nannten ihn "nutzlos". Die Forscher nannten ihn "interessant".</p>
+      <p>Was niemand erwartet hatte: In diesem starren, unbeweglichen Monat passierten die merkwürdigsten Dinge. Menschen, die sonst nie Neugier zeigten, begannen plötzlich, Fragen zu stellen. "Warum ist der Himmel blau?" "Wohin geht die Zeit?" "Was ist der Sinn des Lebens?" – Fragen, die sonst niemand stellte.</p>
+      <p>Die Wissenschaft hat eine Erklärung: "Der starre Monat scheint eine Art Reset-Knopf zu sein", erklärt Physiker Dr. Marcus Fuchs. "Die Exaktheit der Tage, die Unbeweglichkeit der Struktur – das alles kombiniert sich mit der kollektiven Neugier der Menschen und erzeugt etwas, das wir noch nicht vollständig verstehen."</p>
+      <p>Was als "nutzloser" Monat begann, wurde zum erfolgreichsten Forschungsprojekt des Jahres. Die "Februar-Initiative" sammelte Daten von Tausenden freiwilliger Neugieriger. Das Ergebnis: Je genauer die Menschen die Zeit beobachteten, desto mehr Antworten fanden sie – auf Fragen, die sie nie zu stellen gewagt hatten.</p>
+      <p>Heute ist der Februar kein "nutzloser" Monat mehr. Er ist der Monat der Neugier. Und die Forscher? Sie arbeiten bereits am "starren März", in der Hoffnung, noch mehr Antworten zu finden.</p>
     `
   }
 ];
