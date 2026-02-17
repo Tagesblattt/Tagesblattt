@@ -67,6 +67,14 @@
             border-bottom: 1px solid #ddd;
         }
         
+        .article-image {
+            width: 100%;
+            max-height: 400px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 2rem;
+        }
+        
         .category {
             display: inline-block;
             background: #1a1a1a;
@@ -168,13 +176,18 @@
         }
         
         const articleId = getArticleId();
-        let article = articles.find(a => a.id === articleId);
-        if (!article) {
-            article = archive.find(a => a.id === articleId);
-        }
+        const article = articles.find(a => a.id === articleId);
         const main = document.getElementById('article-main');
         
         if (article) {
+            let imageHtml = '';
+            if (article.bild) {
+                if (article.bild === 'platzhalter.jpg') {
+                    article.bild = `https://picsum.photos/800/400?random=${article.id}`;
+                }
+                imageHtml = `<img src="${article.bild}" alt="${article.title}" class="article-image">`;
+            }
+            
             document.title = `${article.title} - Tagesblatt`;
             
             main.innerHTML = `
@@ -187,6 +200,7 @@
                             <span>${article.date}</span>
                         </div>
                     </div>
+                    ${imageHtml}
                     <div class="article-content">
                         ${article.content}
                     </div>
