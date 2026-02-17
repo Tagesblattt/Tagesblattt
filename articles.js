@@ -192,5 +192,21 @@ const articles = [
       <p>Im Alltag will er nur frühstücken, doch der neue Trick fasziniert die Nachbarn: Die Tür wird von selbst aufgemacht, weil die Hand die Griffe in unterschiedliche Farben taucht. Die Post sendet bunte QR-Codes, und die Waschmaschine quiekt vor Freude, weil sie endlich ein Farbmuster hat, das sie erraten kann.</p>
       <p>Am Ende stellt sich heraus, dass es nicht um eine echte Superkraft geht, sondern um eine witzige Werbeaktion eines neuen Smartphones. Trotzdem erzählt Jonas die Geschichte so, als handle es sich um eine neue Alltags-Superpower – und alle lachen.</p>
     `
+  },
+  {
+    id: 14,
+    title: "Der große Alarm: Wenn Zufall und Absicht zusammenprallen",
+    summary: "Eine Geschichte darüber, wie ein einfacher Versuch alles veränderte.",
+    author: "Petra Müller",
+    date: "05.02.2026",
+    category: "Alltag",
+    bild: "https://picsum.photos/seed/1515/400/300",
+    content: `
+      <p>Es war ein gewöhnlicher Dienstag, als der Alarm zum ersten Mal ertönte. Nicht irgendein Alarm – sondern der große, der alles verändern sollte. Thomas stand in seiner Küche und starrte auf die Kaffeemaschine, die plötzlich zu singen begann.</p>
+      <p>"Das kann nicht sein", dachte er. Aber es war Realität. Der Kaffee hatte einen Vertrag abgeschlossen, beschloss Thomas. Schließlich war er selbst oft genug in Versuchung gewesen, alles hinzuschmeißen.</p>
+      <p>Der Versuch, normal zu bleiben, scheiterte kläglich. Als er versuchte, den Alarm abzuschalten, stimmte die Mikrowelle mit ein. Sein Toaster begann zu tanzen. Die Katze schaute ihn an, als würde sie sagen: "Ich habe es dir gesagt."</p>
+      <p>Am Ende des Tages hatte Thomas eine wichtige Erkenntnis gewonnen: Manchmal muss man einfach zustimmen – nicht weil man einverstanden ist, sondern weil der Kochlöffel bereits gefallen ist.</p>
+      <p>Der nächste Morgen begann mit Stille. Der Alarm war verstummt. Aber Thomas wusste: Das war erst der Anfang.</p>
+    `
   }
 ];
