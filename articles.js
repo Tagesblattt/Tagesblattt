@@ -286,23 +286,20 @@ const articles = [
       <p>Antwort: Die Kameradschaft. Im Cockpit ist man oft allein. Aber hey, dafür sehe ich jeden Tag den Sonnenaufgang über den Wolken. Das ist mein persönlicher Dienstausweis für das Leben.</p>
     `
   },
-  {
-    id: 35,
-    title: "Die Insel der checkenden Wolken: Eine Reise ins Ungewisse",
-    summary: "Ein skurriler Reisebericht von der seltsamsten Insel der Welt – wo Wolken am Boden kriechen und Zimt in der Luft liegt.",
-    author: "Lena Fischer",
+    {
+    id: 36,
+    title: "Broccoli, Mango und die visuellen Netze des Lebens",
+    summary: "Eine Kolumne über die seltsamen Verbindungen, die wir jeden Tag ignorieren – und warum wir damit aufhören sollten.",
+    author: "Marcus Grünwald",
     date: "17.02.2026",
-    category: "Reise",
+    category: "Kommentar",
     bild: "platzhalter.jpg",
     content: `
-      <p>Der Koffer war gepackt. Der Reisepass lag bereit. Mein Ziel: eine Insel, die auf keiner Karte verzeichnet war. Die Menschen nannten sie "Wolkeninsel" – aber das war nur die höfliche Version.</p>
-      <p>Als ich auf dem Boot saß, das mich durch die stürmische See brachte, fragte ich mich zum ersten Mal: Warum nur? Warum ausgerechnet diese Insel? Die Antwort kam, wie so oft, in Form eines zerknitterten Zettels in meiner Hosentasche. Darauf stand ein einziges Wort: "Must". Es war meine eigene Handschrift. Ich hatte mir selbst eine Nachricht geschrieben – und sie vergessen.</p>
-      <p>Die Ankunft war unspektakulär. Der Hafen war leer, bis auf einen alten Mann, der Wolkenverkäufer war. "Wolken? Wolken!", rief er mir zu. "Die besten Wolken der Insel! Heute besonders fluffy!" Ich schüttelte den Kopf und ging weiter.</p>
-      <p>Die Insel selbst war seltsam. Nicht weil sie besonders schön war – sondern weil sie sich ständig veränderte. Mal war der Strand links, mal rechts. Mal gab es Berge, mal nur flaches Land. Ich musste ständig meine GPS-App checken, die mir sagte: "Sie sind hier. Nein, warte. Jetzt sind Sie doch woanders."</p>
-      <p>Das Unerwartete geschah am zweiten Tag. Ich wanderte durch den dichten Dschungel – oder das, was der Einheimische dafür hielt – als mir plötzlich ein Zimtbaum auffiel. Mitten im Nirgendwo. Die Äste hingen voller kleiner brauner Stangen, die wie Zimt aussahen. Ich pflückte eine. roch daran. Kein Zweifel: Das war Zimt. Echter Zimt.</p>
-      <p>Ein Einheimischer tauchte auf. "Das ist unsere Cloud", sagte er grinsend. "Wolken zum Anfassen. Zimtwolken. Die einzige Insel der Welt, wo Wolken am Boden wachsen." Ich war baff.</p>
-      <p>Am Abend saß ich in der einzigen Bar der Insel – ein kleines Holzhaus mit Schilfdach – und trank den lokalen "Wolkenkaffee". Er schmeckte nach nichts. Oder nach allem. Das war schwer zu unterscheiden.</p>
-      <p>Was habe ich gelernt? Reisen ist nicht das Ziel. Der Weg ist das Ziel. Oder war es der Zimt? Ich bin mir nicht sicher. Aber eines weiß ich: Ich muss wiederkommen. Das steht fest.</p>
+      <p>Ich stehe im Supermarkt. Vor mir liegt Broccoli. Daneben Mango. Und irgendwo zwischen den beiden – ein二维码, das aussieht wie ein Netz aus Maschen. Dervisuelle Schock ist perfekt. Ich frage mich: Wer hat sich das ausgedacht? Wer hat beschlossen, dass diese drei Dinge zusammengehören?</p>
+      <p>Die Antwort ist natürlich: niemand. Und jeder. Das ist das Schöne am Mesh des modernen Lebens – es verbindet, was nicht zusammengehört. Der Broccoli-Link zur Mango ist so zufällig wie das WLAN-Signal in meiner Küche, das mich jeden Morgen um 6 Uhr weckt, obwohl ich nie um diese Uhrzeit aufstehen wollte.</p>
+      <p>Aber hier ist der Punkt, den keiner sehen will: Wir sind alle Teil dieses visuellen Netzes. Wir klicken auf Links, die wir nicht verstehen. Wir kaufen Mango, weil sie neben dem Broccoli liegt. Wir scannen二维码, ohne zu wissen, wohin sie führen. Das ist kein Konsum – das ist Blindenführung im Dunkeln.</p>
+      <p>Die Frage ist nicht, ob wir das Mesh durchschauen. Die Frage ist, ob wir es überhaupt wollen. Broccoli wird gegessen. Mango wird gegessen. Der Link? Der bleibt. Und das Netz? Das wächst.</p>
+      <p>Mein Rat: Kaufen Sie die Mango. Aber vergessen Sie nicht, den Broccoli mitzunehmen. Das Netz wird es Ihnen danken – oder auch nicht. Es ist ein Mesh. Es kennt keine Dankbarkeit.</p>
     `
   }
 ];
