@@ -30,20 +30,18 @@ const articles = [
     `
   },
   {
-    id: 16,
-    title: "Der vergessene Filmclub: Wie Fringe-Town zum coolsten Ort wurde",
-    summary: "Eine vergessene Kleinstadt wurde zum Geheimtipp für Film-Enthusiasten – ganz ohne Werbung.",
-    author: "Lena Bergmann",
-    date: "12.02.2026",
-    category: "Kultur",
+    id: 17,
+    title: "Gepäck-Galerie: Der verrückte Trend, der den Verkehr lahmlegt",
+    summary: "Eine Kleinstadt entdeckt das Gepäck als Kunstform – und stoppt den Busverkehr.",
+    author: "Tom Hoffmann",
+    date: "17.02.2026",
+    category: "Skurril",
     bild: "platzhalter.jpg",
     content: `
-      <p>Es war einmal eine Stadt am Rande von allem – buchstäblich. Fringe-Town, wie die Einheimischen ihre Heimat liebevoll nannten, hatte nichts außer einem verlassenen Kinosaal und jeder Menge Zeit. Die Jugendlichen langweilten sich so sehr, dass sie anfingen, ihre eigenen Filme zu drehen.</p>
-      <p>Alles begann mit einem simplen Gedanken: Warum nicht die langweiligen Werbepausen mit selbstgemachten Clips füllen? Die ersten Versuche waren chaotisch, wackelig und absolut nicht professionell. Aber irgendwie waren sie auch... cool.</p>
-      <p>Der Durchbruch kam, als der lokale Fernsehsender – ja, Fringe-Town hatte tatsächlich einen – beschloss, die Filme auszustrahlen. Niemand weiß genau, warum. Manche behaupten, der Senderleiter war betrunken. Andere meinen, er habe die Idee einfach nur lustig gefunden.</p>
-      <p>Was auch immer der Grund war: Die Filme wurden zum Hit. Plötzlich tauchten Filmemacher aus der ganzen Gegend auf, um das Geheimnis zu lüften. Die Antwort war einfach: Man musste einfach alles weglassen, was offiziell klang. Keine Drehbücher, keine Genehmigungen, keine Ahnung.</p>
-      <p>Heute ist Fringe-Town ein Pilgerort für alle, die das echte Kino suchen – das eine, das nicht in den großen Studios, sondern in kleinen Herzen entsteht. Die Tickets sind billig, der Popcorn ist salzig, und die Filme sind absolut unvorhersehbar. Und das Beste: Man kann nach dem Film noch beim Bäcker nebenan einen Kaffee trinken.</p>
-      <p>Wer also mal was anderes erleben will, sollte Fringe-Town besuchen. Und falls jemand fragt, wie man das gefunden hat: Man hat einfach die offiziellen Reiseführer ignoriert – beziehungsweise weggelassen.</p>
+      <p>Es begann alles ganz harmlos. Maria wartete am Busbahnhof auf ihre Linie nach Nirgendwo, als sie ihren Koffer anstarrte und dachte: \"Warum ist der nur so langweilig braun?\" Kurzerhand klebte sie einen Aufkleber darauf. Dann noch einen. Und noch einen.</p>
+      <p>Am nächsten Tag trug sie ihren dekorierten Koffer zur Arbeit. Die Kollegen lachten zuerst – doch dann fragten sie, wo sie die Aufkleber herbekomme. Bald darauf entstand die erste Gepäck-Galerie der Stadt. Menschen schmückten ihre Koffer mit allem, was sie finden konnten: Federn, Glitzer, kleine Spiegel.</p>
+      <p>Der Durchbruch kam, als der örtliche Verkehrsbetrieb beschwerte: Die Menschen blieben stehen, um die Kunstkoffer zu bestaunen. Der Busfahrer der Linie 7 gab irgendwann auf und begann, selbst mitzumachen. Er dekorierte seinen Koffer mit blinkenden Lichtern.</p>
+      <p>Heute ist die Kleinstadt berühmt für ihre \"Gepäck-Paraden\". Jeden Samstag ziehen Hunderte mit ihren dekorierten Koffern durch die Straßen. Der Verkehr? Der bleibt, wo er ist – und das ist diesmal kein Problem.</p>
     `
   }
 ];
