@@ -126,4 +126,23 @@ const articles = [
       <p>Heute bietet der Leerführer drei Touren täglich an. Die Warteliste ist drei Monate voll. Und das Beste: Die Teilnehmer gehen mit dem Gefühl nach Hause, etwas Einzigartiges erlebt zu haben – obwohl da nie etwas war.</p>
     `
   }
+  {
+    id: 24,
+    title: "Der Sand Röster: Wenn die Wüste zur Post wird",
+    summary: "Ein bescheidener Hobbykoch entdeckt eine unfassbare Methode, Nachrichten durch Sandröstung zu verschicken – und wird zum Kultstar.",
+    author: "Julia Fischer",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es war ein warmer Nachmittag in der kleinen Gemeinde Sandheim, als Wilhelm Becher etwas Entdeckung machte, die niemand für möglich gehalten hätte. Der ehemalige Bäcker, der sich nach seiner Rente dem Räuchern widmete, experimentierte wie so oft mit seltsamen Zutaten.</p>
+      <p>"Ich hatte nur noch Sand übrig", erzählt Wilhelm kopfschüttelnd. "Also dachte ich: Warum nicht mal was anderes rösten?"</p>
+      <p>Was als harmloser Versuch begann, wurde zur Sensation. Als Wilhelm den Sand in seiner alten Röstmaschine auf eine bestimmte Temperatur brachte, begann der Sand, seltsame Muster zu bilden. Noch erstaunlicher: In den Mustern konnte man Buchstaben erkennen!</p>
+      <p>Die Nachbarn lachten zuerst. "Der Wilhelm spinnt", meinte Frau Müller. Doch dann schickte Wilhelm seine erste "Sandnachricht" an seinen Enkel in der Stadt: "Hallo Max, Opa hat dich lieb." – geschrieben in geröstetem Sand.</p>
+      <p>Der Enkel war begeistert. Er postete ein Foto der sandigen Botschaft in den sozialen Medien – und ging viral. Plötzlich wollte jeder eine Sandnachricht. Wilhelm belegte Kurse, gründete die "Sand-Röst-Akademie" und verkaufte "Röstsets" für zu Hause.</p>
+      <p>Die Wissenschaft ist skeptisch. "Wir können es nicht erklären", gibt Physiker Dr. Bach zu. "Aber die Muster sind real. Es scheint, als hätte der Sand ein Gedächtnis."</p>
+      <p>Wilhelm selbst bleibt bescheiden. "Ich bin nur ein einfacher Rentner, der gerne röstet", sagt er bescheiden. "Und jetzt röstet meine Nachricht die Welt."</p>
+      <p>Die Post hat bereits angekündigt, einen neuen Service zu testen: Sandbriefe. Die Antwortzeiten sind allerdings etwas länger – man muss schließlich warten, bis der Sand kühl genug für den Versand ist.</p>
+    `
+  }
 ];
