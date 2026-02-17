@@ -199,5 +199,23 @@ const articles = [
       <p>Frage: Was planen Sie als Nächstes?</p>
       <p>Antwort: Ich überlege, einen Elefanten in einen Aufzug zu setzen. Die Decke wäre diesmal kein Problem – aber der Ausstieg.</p>
     `
+  },
+  {
+    id: 29,
+    title: "Die Rose im nassen Turm: Ein Social-Media-Drama",
+    summary: "Ein skurriles Rätsel um eine verschwundene Rose, einen geheimnisvollen Turm und die seltsamste Verfolgungsjagd des Jahres.",
+    author: "Sophie Keller",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>1/7: Meine Rose ist heute Nacht verschwunden. Einfach so. Ich habe sie auf das Fensterbrett gestellt. Weg. Einfach weg. Ich verstehe die Welt nicht mehr.</p>
+      <p>2/7: Die Nachbarn sagen, sie hätten jemanden im Turm gesehen. Einem TURM. Mitten in der Stadt. Wer baut denn bitte noch Türme in diesem common Viertel? Unfassbar.</p>
+      <p>3/7: Bin dem Typen gefolgt. Er hat meine Rose genommen. Im Nassen. Es regnet seit Stunden. Meine arme Rose wird pitschnass. Ich rufe ihm zu: "Stay! Stay away from my rose!" Er bleibt nicht.</p>
+      <p>4/7: Der Typ bleibt stehen. Er will meine Rose in den Turm tragen. In seinen nassen Armen. Meine Rose! Ich schreie: "Das ist meine Rose!" Er dreht sich um und lächelt. Was zur...</p>
+      <p>5/7: Er erklärt mir, dass der Turm ein "Rosen-Reservat" sei. Es gäbe dort oben andere Rosen. Bessere Rosen. Gemeinsame Rosen. Er nennt es "common ground". Ich verstehe nur Bahnhof.</p>
+      <p>6/7: Ich gehe mit ihm rein. Der Turm ist nass von innen. Überall Rosen. Hunderte. Alle nass. Alle feucht. Er bietet mir einen Tee an. Ich will nur meine Rose zurück.</p>
+      <p>7/7: tl;dr: Meine Rose ist jetzt Teil einer WG. Der Typ sagt, sie stay't jetzt im Turm. Mit anderen Rosen. Gemeinsam. Es ist so nass hier. Ich gehe nach Hause. Ohne Rose. Dafür mit Erkältung.</p>
+    `
   }
 ];
