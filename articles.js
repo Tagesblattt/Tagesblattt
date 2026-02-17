@@ -301,5 +301,24 @@ const articles = [
       <p>Die Frage ist nicht, ob wir das Mesh durchschauen. Die Frage ist, ob wir es überhaupt wollen. Broccoli wird gegessen. Mango wird gegessen. Der Link? Der bleibt. Und das Netz? Das wächst.</p>
       <p>Mein Rat: Kaufen Sie die Mango. Aber vergessen Sie nicht, den Broccoli mitzunehmen. Das Netz wird es Ihnen danken – oder auch nicht. Es ist ein Mesh. Es kennt keine Dankbarkeit.</p>
     `
+  },
+  {
+    id: 37,
+    title: "Die Birnendebatte: Marktstand sorgt für Chaos",
+    summary: "Ein seltsamer Stand auf dem Wochenmarkt lockt Hunderte an – und keiner versteht warum.",
+    author: "Tim Bermann",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>09:15: Alles beginnt harmlos. Herr Becker stellt seine Birnen auf den Marktstand. Eine einzelne Birne fällt auf den Boden.</p>
+      <p>10:02: Ein Passant hebt die Birne auf. "Ist das eine besondere Sorte?", fragt er. Herr Becker zuckt mit den Schultern.</p>
+      <p>10:45: Plötzlich steht ein Schild neben dem Stand: "Heute: Die Birne wird enthüllt!" Die crowd versammelt sich.</p>
+      <p>11:30: Die Menge wird größer. Jemand ruft: "Expose die Birne!" Herr Becker wird nach vorne gepusht.</p>
+      <p>12:15: Er nimmt die Birne in die Hand. Die Menge hält den Atem an. "Sie ist... ganz normal", flüstert er.</p>
+      <p>12:58: Die Stimmung kippt. "Was soll das?", ruft jemand. Herr Becker wirkt überfordert.</p>
+      <p>13:30: In diesem Moment erscheint seine Mutter. "Das war meine Idee", verkündet sie stolz. "Er hat keine Ahnung vom Obstverkauf."</p>
+      <p>14:02: Die crowd ist sprachlos. Die Birne bleibt unenthüllt. Herr Becker verkauft fortan Äpfel.</p>
+    `
   }
 ];
