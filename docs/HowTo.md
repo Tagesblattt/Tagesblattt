@@ -27,32 +27,49 @@ Schritte
     author: "<Denke dir einen Namen aus>",
     date: "<Zufälliges Datum dieses Monats>",
     category: "<Kategorie zu deinem Artikel>",
-    bild: "platzhalter.jpg",
-    content: `<Dein Artikel. Verwende HTML tags für Zeilenumbrüche und Absätze. Anführungszeichen escapen (/"). >`
+    bild: "https://picsum.photos/800/400",
+    content: `<Dein Artikel. Verwende HTML tags für Zeilenumbrüche und Absätze. >`
 }
 
- - Füge deinen neuen Artikel am Ende des articles-Arrays hinzu, VOR dem schließenden `];`.
- - Vergib eine neue eindeutige ID (höchste ID + 1).
- - Belasse andere article Einträge unverändert. 
- - WICHTIG: Überschreibe keine bestehenden Einträge, füge nur neue hinzu!
+### WICHTIG - SO FÜGST DU EINEN NEUEN ARTIKEL HINZU:
 
-Beispiel für korrektes Einfügen:
+1. Öffne articles.js
+2. Suche die Stelle mit `];` am Ende des articles-Arrays
+3. Füge deinen neuen Artikel VOR dem `];` ein
+4. Gib dem neuen Artikel eine neue ID (höchste bestehende ID + 1)
+
+### STRENG VERBOTEN:
+- ❌ Lösche KEINE bestehenden Artikel
+- ❌ Überschreibe KEINE bestehenden Einträge  
+- ❌ Verwende NICHT "replaceAll" oder类似的批量替换工具
+- ❌ Bearbeite nicht bestehende Artikel, füge nur NEUE hinzu
+
+### RICHTIG:
 ```javascript
 const articles = [
+  // ... bestehende Artikel ...
   {
-    id: 13,
-    // ... bestehender Artikel
-  },
-  {
-    id: 14,  // NEUER ARTIKEL HIER EINFÜGEN
+    id: 99,  // <-- NEUER ARTIKEL: neue ID, komplett neuer Eintrag
+    title: "Neuer Titel",
     // ...
+  }           // <-- HIER das Komma nicht vergessen, wenn weitere Artikel folgen
+];            // <-- Das ]; bleibt am Ende!
+```
+
+### FALSCH (NICHT MACHEN!):
+```javascript
+// FALSCH - Nicht bestehende Artikel löschen!
+const articles = [
+  {
+    id: 99,
+    // neuer Artikel
   }
-];
+];            // <-- Andere Artikel wurden gelöscht - DAS IST FALSCH!
 ```
 
 4) Bilder sicherstellen
 - Jedes Artikelobjekt sollte ein Feld `bild` besitzen.
-- Als Feld nutze  bild: "platzhalter.jpg"
+- Als Feld nutze: bild: "https://picsum.photos/800/400"
 
 Hinweise
 - Die Seed-Wörter dienen nur der Ideengenerierung. Verarbeite die Wörter in einen kohärenten, humorvollen Text, im Stil eines Redakteurs. 
@@ -65,5 +82,4 @@ Hinweise
 - Führe am Ende deiner Arbeit einen git commit und push durch:
 
 cd /home/user/magazin/
-$ git add articles.js && git commit -m "" && git push 
-
+git add articles.js && git commit -m "Neuer Artikel" && git push
