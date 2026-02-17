@@ -285,5 +285,23 @@ const articles = [
       <p>Frage: Was vermissen Sie am meisten am Polizeidienst?</p>
       <p>Antwort: Die Kameradschaft. Im Cockpit ist man oft allein. Aber hey, dafür sehe ich jeden Tag den Sonnenaufgang über den Wolken. Das ist mein persönlicher Dienstausweis für das Leben.</p>
     `
+  },
+  {
+    id: 34,
+    title: "Der Vulkan-Detail-Fix: Ein Bild gegen die Langeweile",
+    summary: "Ein Social-Media-Thread über die seltsamste Entdeckung seit Jahren – direkt auf der eigenen Bank.",
+    author: "Tom Hoffmann",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>1/7: Sitze auf meiner Bank. Starre auf das Bild an der Wand. Jedes Detail. Nichts passiert. Langweilig.</p>
+      <p>2/7: Mir fällt die Glühbirne auf. Die alte Birne. Sie flackert. Ich will sie wechseln – Detail Nr. 47.</p>
+      <p>3/7: PLÖTZLICH. Der Boden bebt. Vulkan?! Mitten im Wohnzimmer?? Das Bild an der Wand zeigt plötzlich Lava.</p>
+      <p>4/7: Die Birne explodiert. Überall Funken. Mein Bild brennt. Die Bank schmilzt. Der Vulkan ist real.</p>
+      <p>5/7: Ich sprint zur Tür. Bleibe stehen. Das Detail an der Tür: ein Feuerlöscher. Endlich!</p>
+      <p>6/7: Ich lösche alles. Der Vulkan? War ein Filmprojektor. Das Bild? Eine Tapete. Die Bank? Mein alter Sessel.</p>
+      <p>7/7: tl;dr: Die Glühbirne war schuld. Alles andere war ein Bild von meinem letzten Urlaub. Ich brauche einen neuen.</p>
+    `
   }
 ];
