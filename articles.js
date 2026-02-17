@@ -219,20 +219,31 @@ const articles = [
     `
   },
   {
-    id: 30,
-    title: "Die Gezeiten meiner Kindheit: Eine Reise zum vergessenen Ufer",
-    summary: "Ein Reisebericht über unerwartete Erinnerungen und die Magie des Meeres.",
-    author: "Marina Seebach",
+    id: 31,
+    title: "Der Kniegelenk-Prozess: Wenn Lärm zur Beweisaufnahme wird",
+    summary: "Ein ungewöhnlicher Gerichtsfall sorgt für Aufregung – das Knie des Angeklagten wird zum zentralen Beweismittel.",
+    author: "Dr. Friedrich Braun",
     date: "17.02.2026",
-    category: "Reisen",
+    category: "Skurril",
     bild: "platzhalter.jpg",
     content: `
-      <p>Der Strand lag da wie ein schlafender Riese, als ich ihn das erste Mal betrat. Das Meer war ruhig, die Gezeiten schienen zu flüstern. Ich war nur hierhergekommen, um meine Gedanken zu ordnen – doch das Meer hatte andere Pläne.</p>
-      <p>Ich lief barfuß über den warmen Sand, während die Wellen sanft meine Füße umschmeichelten. In der Ferne sah ich ein verlassenes Strandhaus, dessen Fenster wie Augen in die Welt starrten. Die Farbe blätterte ab, aber es hatte etwas Magisches.</p>
-      <p>Plötzlich bemerkte ich etwas im Sand: Ein alter, verwitterter Holzarm lag halb im Sand vergraben. Nicht etwa eine Prothese – nein, ein decorative Kunstwerk,formt wie ge eine Hand mit ausgestreckten Fingern. Daneben: Haare. Echte menschliche Haare, zu einem seltsamen Muster verflochten.</p>
-      <p>Mein Herz schlug schneller. Was hatte das zu bedeuten? Ich grub weiter und fand eine alte Flaschenpost. Der Brief darin war verblasst, aber lesbar: "Wer dies findet, soll wissen: Das Meer gibt alles zurück, was man ihm anvertraut."</p>
-      <p>Ich starrte auf den Holzarm, auf die Haare, auf den Brief. Das Meer hatte meine eigene Kindheit hierhergespült – Erinnerungen an meinen Großvater, der mir erzählt hatte, dass das Meer alle Geheimnisse aufbewahrt.</p>
-      <p>Am Abend saß ich am Strand und sah zu, wie die Sonne im Meer versank. Die Gezeiten hatten mich heute etwas gelehrt: Manche Erinnerungen vergisst man nicht – sie warten nur darauf, vom Meer an Land gespült zu werden.</p>
+      <p>Verhandlungstag im Amtsgericht. Der Richter nimmt Platz. Der Angeklagte Herr Müller wird hereingeführt.</p>
+      <p>Richter: Herr Müller, Sie sind angeklagt, am 14. Januar dieses Jahres in der Friedrichstraße widerrechtlich Lärm verursacht zu haben. Wie plädieren Sie?</p>
+      <p>Angeklagter: Nicht schuldig, Herr Richter. Ich habe lediglich meine Gartenarbeit begonnen. Das ist kein Verbrechen.</p>
+      <p>Richter: Die Zeugin Frau Schmidt hat ausgesagt, sie habe um 6 Uhr morgens laute Geräusche gehört. Sie sei davon aufgewacht.</p>
+      <p>Angeklagter: Das war mein Rasenmäher. Ich habe einen Sieg errungen – meinen Rasen endlich fertig zu mähen. Das war ein wichtiger Moment für mich.</p>
+      <p>Zeugin: Er hat geschrien. Nicht nur gemäht. Er hat geschrien und dabei sein Knie in die Luft gereckt.</p>
+      <p>Richter: Herr Müller, stimmt das?</p>
+      <p>Angeklagter: Ich habe mein Knie bewegt. Das ist kein Verbrechen. Ich weigere mich, das zu akzeptieren.</p>
+      <p>Richter: Die Staatsanwaltschaft hat eine Lärmmessung vorgelegt. 85 Dezibel um 6 Uhr morgens.</p>
+      <p>Angeklagter: Das ist kein Lärm. Das ist Freude. Ich habe meinen Rasen gemäht. Der Lärm war meine Art zu feiern.</p>
+      <p>Richter: Herr Müller, Sie haben also absichtlich Lärm verursacht?</p>
+      <p>Angeklagter: Ich habe gar nichts abgelehnt. Ich habe nur begonnen zu mähen. Das ist mein gutes Recht.</p>
+      <p>Richter: Das Gericht zieht sich zur Beratung zurück.</p>
+      <p>Nach einer Stunde verkündet der Richter das Urteil.</p>
+      <p>Richter: Das Gericht verurteilt Herrn Müller zu einer Geldstrafe von 500 Euro wegen Ruhestörung. Der Lärm um 6 Uhr morgens ist nicht mit der Nachbarschaft vereinbar, selbst wenn er einen Sieg feiern wollte.</p>
+      <p>Der Angeklagte verlässt den Saal. Sein Knie schmerzt.</p>
+      <p>Protokollende. Aktenzeichen: 34 Js 227/26.</p>
     `
   }
 ];
