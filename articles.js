@@ -163,21 +163,21 @@ const articles = [
     `
   },
   {
-    id: 26,
-    title: "Die Milch-Galerie: Wenn Kunst zum Flüsschen wird",
-    summary: "Ein skurriles Museum beschließt, alle Gemälde in Milch zu tauchen – mit unerwarteten Folgen.",
-    author: "Sophie Meyer",
-    date: "14.02.2026",
+    id: 27,
+    title: "Der Blitz-Pudding: Wenn die Bestellung schneller ist als der Gedanke",
+    summary: "Ein neuer Lieferservice verspricht Pudding in Lichtgeschwindigkeit – und die Kunden sind baff.",
+    author: "Petra Hoffmann",
+    date: "17.02.2026",
     category: "Skurril",
     bild: "platzhalter.jpg",
     content: `
-      <p>Es war der ungewöhnlichste Kunstentschluss des Jahres. Das kleine Museum "Kunst im Fluss" in der Kleinstadt Bächenberg beschloss, seine gesamte Sammlung zu "reopen" – allerdings nicht im klassischen Sinne. Die Kuratorin, Frau Dr. Hilda Tropfen, hatte eine revolutionäre Idee: "Warum sollten wir Bilder nur betrachten? Wir sollten sie trinken!"</p>
-      <p>Der Plan war einfach aber kühn: Jedes Kunstwerk sollte in Milch getaucht werden. Die "Milch-Galerie" war geboren. Die Eröffnung lockte Hunderte von Besuchern an, die gespannt waren, was sie erwarten würde.</p>
-      <p>Als erstes Werk wählte man eine Landschaftsleinwand aus dem 19. Jahrhundert. Vorsichtig tauchte man die canvas in große Bottiche mit frischer Milch. Das Ergebnis war faszinierend: Die Farben schienen zu schweben, als würden sie in einer anderen Dimension existieren.</p>
-      <p>"Es ist wie ein thought, der flüssig wird", schwärmte ein Künstler aus der Nachbarschaft. "Die Masse der Milch verbindet sich mit der Masse der Farbe – und erschafft etwas vollkommen Neues."</p>
-      <p>Die Kritiker waren zunächst skeptisch. "Das ist keine Kunst, das ist Verschwendung!", rief ein alter Kunstprofessor. Doch die Besucher liebten es. Die Ausstellung wurde zum viralen Phänomen.</p>
-      <p>Heute ist die Milch-Galerie ein Mekka für Kunstliebhaber aus aller Welt. Die Eintrittskarten sind ausverkauft, und die Milch-Kunstwerke erzielen Rekordpreise auf Auktionen. Frau Dr. Tropfen plant bereits das nächste Projekt: Die "Butter-Galerie".</p>
-      <p>"Kunst sollte fließen", sagt sie. "Und was fließt besser als Milch?"</p>
+      <p>Es war ein gewöhnlicher Abend, als Herr Fuchs beschloss, etwas Süßes zu bestellen. Er öffnete sein Handy, scrollte durch die üblichen Apps – und fand eine neue Anwendung: "FlashPudding". Der Slogan war verlockend: "Ihr Pudding in Lichtgeschwindigkeit."</p>
+      <p>"Das muss ein Fehler sein", dachte Herr Fuchs. Aber er war neugierig. Er bestellte einen Vanillepudding. Kaum hatte er auf "Bestellen" geklickt, klingelte es an der Tür.</p>
+      <p>Die Lieferzeit: 0,003 Sekunden. Der Pudding war noch warm.</p>
+      <p>Was folgte, war eine Welle von Bestellungen. Die Nachbarschaft war baff. Frau Müller bestellte drei Schokoladenpuddings – sie arrivederten, bevor sie überhaupt auf "Bestätigen" drücken konnte. Der Postbote blieb stehen und starrte.</p>
+      <p>Die Wissenschaft rätselt. "Wir nennen es den 'Flash-Effekt'", erklärt Physiker Dr. Licht. "Irgendwie scheint der Pudding die Zeit zu überlisten. Wir messen Lichtgeschwindigkeit – aber der Pudding ist schneller."</p>
+      <p>Die Erleichterung der Kunden ist groß. Endlich kein Warten mehr. Endlich sofortiger Pudding-Genuss. Die kleine Bestell-App hat Großes vor: Sie will bald alle Süßspeisen in Lichtgeschwindigkeit liefern.</p>
+      <p>Herr Fuchs hat mittlerweile einen Stammplatz. "Der Blitz-Pudding ist der beste Pudding meines Lebens", schwört er. "Nicht weil er besonders gut schmeckt – sondern weil ich nie wieder warten muss."</p>
     `
   }
 ];
