@@ -341,5 +341,23 @@ const articles = [
       <p>Zurück im Alltag versuche ich, mir seine Langsamkeit zu bewahren. Wenn ich einen Snack esse, denke ich an Schnuffel. Wenn ich einen Sound höre, der mich beruhigt, lächle ich. Die Reise hat mich gelehrt, dass das Leben nicht immer schnell gehen muss. Manchmal ist die langsamste Route die interessanteste.</p>
       <p>Ich habe Bambusstadt nicht auf der Karte gefunden. Vielleicht ist das besser so. Manche Orte sollte man nicht suchen – man muss sie einfach finden. Langsam.</p>
     `
+  },
+  {
+    id: 41,
+    title: "Die Tante des Kapitäns: Wer kontrolliert den Hafen von Glare Point?",
+    summary: "Unsere Investigativ-Recherche deckt auf: Ein scheinbar harmloses Familienunternehmen hat die Kontrolle über den wichtigsten Hafen der Region übernommen – und niemand weiß, wie.",
+    author: "Klaus-Dieter Haller",
+    date: "18.02.2026",
+    category: "Investigativ",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es begann mit einem anonymen Anruf. "Sie müssen sich den Hafen von Glare Point ansehen", sagte eine Stimme, die nach jahrelangem Zigarettenkonsum klang. "Die Tante des Kapitäns hat alles an sich gerissen. Und niemand fragt, wie."</p>
+      <p>Unsere Recherche zeigt: Hinter dem idyllischen Hafen an der Nordseeküste verbirgt sich ein undurchsichtiges Netzwerk. Der Kapitän Heinrich Moormann, bekannt für seine bescheidenen Fischerboote, führt seit Jahren Doppelleben. Doch es ist seine Tante, die das wahre Geheimnis hütet.</p>
+      <p>Ein Insider berichtet unter Zusicherung der Anonymität: "Sie kommt jeden Morgen um Punkt sieben Uhr. Setzt sich an den großen Tisch im Kontor. Und trifft Entscheidungen, die kein normaler Mensch versteht." Die当地的 Lokalpolitiker schweigen – oder werden zum Schweigen gebracht.</p>
+      <p>Die Dokumente, die wir einsehen konnten, offenbaren einen bizarr anmutenden Deal: Tante Marlene Winkler erhält jährlich 47 Prozent aller Hafeneinnahmen. Der Vertrag trägt die Unterschrift eines Notars, der seit 1993 nicht mehr im Amt ist. Auf die Frage, wie dies möglich sei, antwortete die Stadtverwaltung mit einem Schreiben, das lediglich drei Worte enthielt: "Kein Kommentar möglich."</p>
+      <p>Der Winkel, unter dem diese Geschäfte betrachtet werden müssen, ist mathematisch betrachtet: 23 Grad. Ein Winkel, der in keiner Seekarte verzeichnet ist – doch in den internen Protokollen des Hafens taucht er immer wieder auf.</p>
+      <p>Wir konfrontierten Tante Marlene mit unseren Erkenntnissen. Sie lächelte nur, zückte einen alten Kompass und sagte: "Der wahre Winkel ist nicht der, den Sie suchen. Es ist der, den Sie nicht sehen." Dann verließ sie den Raum.</p>
+      <p>Die Frage bleibt: Wer kontrolliert Glare Point wirklich? Die Antwort könnte im Wasser liegen – oder in den Akten eines Gerichts, das seit drei Jahren über den Fall urteilt. Verfahren wird fortgesetzt.</p>
+    `
   }
 ];
