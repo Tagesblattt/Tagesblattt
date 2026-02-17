@@ -320,5 +320,23 @@ const articles = [
       <p>13:30: In diesem Moment erscheint seine Mutter. "Das war meine Idee", verkündet sie stolz. "Er hat keine Ahnung vom Obstverkauf."</p>
       <p>14:02: Die crowd ist sprachlos. Die Birne bleibt unenthüllt. Herr Becker verkauft fortan Äpfel.</p>
     `
+  },
+  {
+    id: 38,
+    title: "Der Jaguar-Code: Genehmigung für den See",
+    summary: "Ein Live-Ticker über eine geheime Operation am See – und ihre unerwartete Wendung.",
+    author: "Nina Roth",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>08:15: Am Ufer des Sees taucht ein Jaguar auf. Die Spaziergänger halten inne.</p>
+      <p>09:30: Der Tierpfleger Herr Fuchs trifft ein. "Wir brauchen eine Genehmigung", murmelt er.</p>
+      <p>10:45: Die Behörde antwortet: "Antrag genehmigt." Der Jaguar schaut verwirrt.</p>
+      <p>12:00: Der Jaguar entfernt sich vom Ufer. Er hat einen geheimen Code gefunden.</p>
+      <p>13:30: Herr Fuchs entdeckt eine Tinne am Seegrund. Der Code war nur ein Test.</p>
+      <p>14:45: Der Jaguar schwimmt davon. Die Genehmigung? Wurde nie gebraucht.</p>
+      <p>15:00: Der See bleibt geheim. Der Jaguar auch.</p>
+    `
   }
 ];
