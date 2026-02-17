@@ -360,4 +360,25 @@ const articles = [
       <p>Die Frage bleibt: Wer kontrolliert Glare Point wirklich? Die Antwort könnte im Wasser liegen – oder in den Akten eines Gerichts, das seit drei Jahren über den Fall urteilt. Verfahren wird fortgesetzt.</p>
     `
   }
+,
+  {
+    id: 42,
+    title: "Der Blatt-Analytiker: Wie ein Diagramm den Glückszyklus erklärt",
+    summary: "Ein skurriler Mann behauptet, durch die Analyse von Blättern das perfekte Glücksdiagramm erstellt zu haben – wir haben nachgefragt.",
+    author: "Nina Wolters",
+    date: "18.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Herr Grün behauptet, durch jahrelange Forschung das Geheimnis des Glücks entschlüsselt zu haben – mithilfe von Blättern. Wir haben ihn in seinem vollgestopften Büro besucht.</p>
+      <p>Frage: Herr Grün, wie sind Sie auf die Idee gekommen, Glück mit Blättern zu analysieren?</p>
+      <p>Antwort: Es war ein Herbstabend. Ein einzelnes Blatt fiel auf meinen Schreibtisch. Ich schaute es mir an – und plötzlich sah ich das Muster. Die Adern des Blattes bildeten ein perfektes Diagramm. Da wusste ich: Das ist die Antwort.</p>
+      <p>Frage: Was sagt dieses Diagramm genau?</p>
+      <p>Antwort: Es zeigt den Glückszyklus. Jedes Blatt durchläuft fünf Phasen: Wachsen, Grünen, Vergilben, Fallen, Vergehen. Und genau das passiert auch mit unserem Glück. Wir blühen auf, werden traurig, fallen – und dann beginnt ein neuer Zyklus.</p>
+      <p>Frage: Und was hat das mit Ihrem Konto zu tun?</p>
+      <p>Antwort: Jeder Mensch hat ein unsichtbares Glückskonto. Wenn Sie glücklich sind, zahlen Sie ein. Wenn Sie unglücklich sind, zahlen Sie aus. Die Blätter zeigen mir, wann das Konto überläuft – und wann es leer ist.</p>
+      <p>Frage: Sind Sie denn selbst happy mit Ihrer Entdeckung?</p>
+      <p>Antwort: (lacht) Ich bin der glücklichste Mensch der Welt. Mein Blatt-Diagramm zeigt mir jeden Morgen, wie mein Zyklus verläuft. Und wissen Sie was? Heute ist ein guter Tag. Das Blatt ist grün.</p>
+    `
+  }
 ];
