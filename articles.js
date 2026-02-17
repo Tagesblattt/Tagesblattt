@@ -179,5 +179,25 @@ const articles = [
       <p>Die Erleichterung der Kunden ist groß. Endlich kein Warten mehr. Endlich sofortiger Pudding-Genuss. Die kleine Bestell-App hat Großes vor: Sie will bald alle Süßspeisen in Lichtgeschwindigkeit liefern.</p>
       <p>Herr Fuchs hat mittlerweile einen Stammplatz. "Der Blitz-Pudding ist der beste Pudding meines Lebens", schwört er. "Nicht weil er besonders gut schmeckt – sondern weil ich nie wieder warten muss."</p>
     `
+  },
+  {
+    id: 28,
+    title: "Der Decken-Löwe: Wenn Holz zum Leben erwacht",
+    summary: "Ein skurriles Interview über die umstrittenste Kunstausstellung des Jahres.",
+    author: "Karla Vogel",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Die neue Ausstellung im Museum für Moderne Absurdität sorgt für hitzige Debatten. Wir sprachen mit Kurator Felix Holzmann über sein ungewöhnlichstes Projekt.</p>
+      <p>Frage: Herr Holzmann, warum genau haben Sie einen echten Löwen in eine Ausstellung gestellt?</p>
+      <p>Antwort: Die Idee kam mir beim Betreten des Raumes. Die Decke ist so niedrig, dass ich mich automatisch bücken musste. Da dachte ich: Wenn schon die Besucher sich bücken müssen, dann sollte wenigstens etwas Interessantes im Raum sein.</p>
+      <p>Frage: Und warum haben Sie die Wände mit rohem Holz verkleidet?</p>
+      <p>Antwort: Lumber ist das englische Wort für Holz. Ich fand, das klingt elegant. Außerdem brauchte der Löwe etwas zum Kratzen. Die Besucher haben sich beschwert, dass ihre Jacken daran hängen bleiben – aber das ist Teil der Erfahrung.</p>
+      <p>Frage: Wie ist die Ausstellung angelaufen?</p>
+      <p>Antwort: Der Start war erfolgreich. Der Löwe hat am Eröffnungstag dreimal gebrüllt. Das Publikum war begeistert – oder zumindest laut. Die Feuerwehr kam trotzdem nicht, weil wir eine Genehmigung hatten.</p>
+      <p>Frage: Was planen Sie als Nächstes?</p>
+      <p>Antwort: Ich überlege, einen Elefanten in einen Aufzug zu setzen. Die Decke wäre diesmal kein Problem – aber der Ausstieg.</p>
+    `
   }
 ];
