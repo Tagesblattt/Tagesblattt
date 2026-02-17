@@ -287,21 +287,22 @@ const articles = [
     `
   },
   {
-    id: 34,
-    title: "Der Vulkan-Detail-Fix: Ein Bild gegen die Langeweile",
-    summary: "Ein Social-Media-Thread über die seltsamste Entdeckung seit Jahren – direkt auf der eigenen Bank.",
-    author: "Tom Hoffmann",
+    id: 35,
+    title: "Die Insel der checkenden Wolken: Eine Reise ins Ungewisse",
+    summary: "Ein skurriler Reisebericht von der seltsamsten Insel der Welt – wo Wolken am Boden kriechen und Zimt in der Luft liegt.",
+    author: "Lena Fischer",
     date: "17.02.2026",
-    category: "Skurril",
+    category: "Reise",
     bild: "platzhalter.jpg",
     content: `
-      <p>1/7: Sitze auf meiner Bank. Starre auf das Bild an der Wand. Jedes Detail. Nichts passiert. Langweilig.</p>
-      <p>2/7: Mir fällt die Glühbirne auf. Die alte Birne. Sie flackert. Ich will sie wechseln – Detail Nr. 47.</p>
-      <p>3/7: PLÖTZLICH. Der Boden bebt. Vulkan?! Mitten im Wohnzimmer?? Das Bild an der Wand zeigt plötzlich Lava.</p>
-      <p>4/7: Die Birne explodiert. Überall Funken. Mein Bild brennt. Die Bank schmilzt. Der Vulkan ist real.</p>
-      <p>5/7: Ich sprint zur Tür. Bleibe stehen. Das Detail an der Tür: ein Feuerlöscher. Endlich!</p>
-      <p>6/7: Ich lösche alles. Der Vulkan? War ein Filmprojektor. Das Bild? Eine Tapete. Die Bank? Mein alter Sessel.</p>
-      <p>7/7: tl;dr: Die Glühbirne war schuld. Alles andere war ein Bild von meinem letzten Urlaub. Ich brauche einen neuen.</p>
+      <p>Der Koffer war gepackt. Der Reisepass lag bereit. Mein Ziel: eine Insel, die auf keiner Karte verzeichnet war. Die Menschen nannten sie "Wolkeninsel" – aber das war nur die höfliche Version.</p>
+      <p>Als ich auf dem Boot saß, das mich durch die stürmische See brachte, fragte ich mich zum ersten Mal: Warum nur? Warum ausgerechnet diese Insel? Die Antwort kam, wie so oft, in Form eines zerknitterten Zettels in meiner Hosentasche. Darauf stand ein einziges Wort: "Must". Es war meine eigene Handschrift. Ich hatte mir selbst eine Nachricht geschrieben – und sie vergessen.</p>
+      <p>Die Ankunft war unspektakulär. Der Hafen war leer, bis auf einen alten Mann, der Wolkenverkäufer war. "Wolken? Wolken!", rief er mir zu. "Die besten Wolken der Insel! Heute besonders fluffy!" Ich schüttelte den Kopf und ging weiter.</p>
+      <p>Die Insel selbst war seltsam. Nicht weil sie besonders schön war – sondern weil sie sich ständig veränderte. Mal war der Strand links, mal rechts. Mal gab es Berge, mal nur flaches Land. Ich musste ständig meine GPS-App checken, die mir sagte: "Sie sind hier. Nein, warte. Jetzt sind Sie doch woanders."</p>
+      <p>Das Unerwartete geschah am zweiten Tag. Ich wanderte durch den dichten Dschungel – oder das, was der Einheimische dafür hielt – als mir plötzlich ein Zimtbaum auffiel. Mitten im Nirgendwo. Die Äste hingen voller kleiner brauner Stangen, die wie Zimt aussahen. Ich pflückte eine. roch daran. Kein Zweifel: Das war Zimt. Echter Zimt.</p>
+      <p>Ein Einheimischer tauchte auf. "Das ist unsere Cloud", sagte er grinsend. "Wolken zum Anfassen. Zimtwolken. Die einzige Insel der Welt, wo Wolken am Boden wachsen." Ich war baff.</p>
+      <p>Am Abend saß ich in der einzigen Bar der Insel – ein kleines Holzhaus mit Schilfdach – und trank den lokalen "Wolkenkaffee". Er schmeckte nach nichts. Oder nach allem. Das war schwer zu unterscheiden.</p>
+      <p>Was habe ich gelernt? Reisen ist nicht das Ziel. Der Weg ist das Ziel. Oder war es der Zimt? Ich bin mir nicht sicher. Aber eines weiß ich: Ich muss wiederkommen. Das steht fest.</p>
     `
   }
 ];
