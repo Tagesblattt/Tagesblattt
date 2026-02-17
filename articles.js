@@ -14,6 +14,22 @@ const articles = [
     `
   },
   {
+    id: 14,
+    title: "Der große Alarm: Wenn Zufall und Absicht zusammenprallen",
+    summary: "Eine Geschichte darüber, wie ein einfacher Versuch alles veränderte.",
+    author: "Petra Müller",
+    date: "05.02.2026",
+    category: "Alltag",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es war ein gewöhnlicher Dienstag, als der Alarm zum ersten Mal ertönte. Nicht irgendein Alarm – sondern der große, der alles verändern sollte. Thomas stand in seiner Küche und starrte auf die Kaffeemaschine, die plötzlich zu singen begann.</p>
+      <p>"Das kann nicht sein", dachte er. Aber es war Realität. Der Kaffee hatte einen Vertrag abgeschlossen, beschloss Thomas. Schließlich war er selbst oft genug in Versuchung gewesen, alles hinzuschmeißen.</p>
+      <p>Der Versuch, normal zu bleiben, scheiterte kläglich. Als er versuchte, den Alarm abzuschalten, stimmte die Mikrowelle mit ein. Sein Toaster begann zu tanzen. Die Katze schaute ihn an, als würde sie sagen: "Ich habe es dir gesagt."</p>
+      <p>Am Ende des Tages hatte Thomas eine wichtige Erkenntnis gewonnen: Manchmal muss man einfach zustimmen – nicht weil man einverstanden ist, sondern weil der Kochlöffel bereits gefallen ist.</p>
+      <p>Der nächste Morgen begann mit Stille. Der Alarm war verstummt. Aber Thomas wusste: Das war erst der Anfang.</p>
+    `
+  },
+  {
     id: 15,
     title: "Die Blumenspur: Ein Junggeselle auf dem Weg zum inneren Frieden",
     summary: "Wie ein Einzelgänger versehentlich einerroseanen Fährte folgte und dabei sich selbst fand.",
