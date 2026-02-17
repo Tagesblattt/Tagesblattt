@@ -94,19 +94,20 @@ const articles = [
     `
   },
   {
-    id: 21,
-    title: "Der Braun-Kanal: Wenn die Telefonzelle zum Herzstück wird",
-    summary: "Eine ungewöhnliche Entdeckung in einem alten Tunnel bringt die Stadt zum Reden.",
-    author: "Max Braun",
+    id: 22,
+    title: "Die Mut-Pille: Wenn Kühnheit zum Alltagsproblem wird",
+    summary: "Ein skurriles Medikament verspricht mehr Mut – doch die Nebenwirkungen sind bizarr.",
+    author: "Julia Hartmann",
     date: "17.02.2026",
     category: "Skurril",
     bild: "platzhalter.jpg",
     content: `
-      <p>Es war ein gewöhnlicher Mittwoch, als der Klempner Helmut Berger in den alten Kanälen unter der Stadt eine höchst ungewöhnliche Entdeckung machte. Mit seiner Taschenlampe leuchtete er in eine Nische – und fand dort eine altmodische Telefonzelle, die aussah, als wäre sie direkt aus den Siebzigern teleportiert worden.</p>
-      <p>Das Skurrile daran: Die Zelle war in einem tiefen Braun gestrichen, und sie funktionierte noch. Als Helmut den Hörer abnahm, hörte er eine Stimme: "Willkommen beim Braun-Kanal. Ihr Anruf ist uns wichtig."</p>
-      <p>Was als Streich begann, wurde zur Attraktion. Menschen from ganz Deutschland reisten an, um die geheime Telefonzelle zu testen. Die einen riefen ihre Freunde an, andere simply wollten hören, was der "Kern" der Stimme zu sagen hatte. Es stellte sich heraus: Der Braun-Kanal war ein Hybrid – eine Mischung aus altem Telefonnetz und moderner KI.</p>
-      <p>Die Stadtverwaltung war zunächst skeptisch, dann amüsiert, schließlich stolz. "Wir haben das Herzstück des Untergrunds gefunden", verkündete der Bürgermeister bei einer Pressekonferenz. Der Braun-Kanal wurde zum Wahrzeichen.</p>
-      <p>Heute führt der Tourismusverband Führungen durch die Kanäle. Der Satz "Ich hab den Braun-Kanal gehört" ist zum geflügelten Wort geworden. Und Helmut? Der arbeitet jetzt offiziell als "Kanal-Koordinator" – sein Traumjob.</p>
+      <p>Es war ein gewöhnlicher Donnerstag, als Herr Fischer in der Apotheke seines Vertrauens nach einem Mittel gegen seine Schüchternheit fragte. Der Apotheker, ein Mann mit viel zu viel Freude an Experimenten, reichte ihm eine kleine blaue Tablette. "Die Mut-Pille", sagte er geheimnisvoll. "Einmal täglich, und du wirst Dinge tun, die du dir nie zu träumen gewagt hast."</p>
+      <p>Herr Fischer war skeptisch, aber auch neugierig. Er schluckte die Pille am nächsten Morgen – und sofort begann etwas Seltsames zu passieren. Als er im Bus saß, überkam ihn plötzlich der unbändige Drang, laut "Halt die Klappe!" zu rufen, nur um zu sehen, ob er es wirklich würde tun können.</p>
+      <p>Die Pille wirkte. Sie wirkte sogar zu gut. Im Büro angekommen, trat Herr Fischer mutig auf seinen Chef zu und sagte ihm genau seine Meinung – über die veralteten Aktenordner, den schrecklichen Kaffee und die unmögliche Schreibtischlampe. Sein Chef war schockiert, aber auch irgendwie beeindruckt.</p>
+      <p>Doch damit nicht genug. Auf dem Heimweg blieb Herr Fischer vor einem Denkmal stehen und fühlte den überwältigenden Drang, darauf zu klettern. Er kletterte. Die Passanten jubelten – oder riefen die Polizei. Es war schwer zu unterscheiden.</p>
+      <p>Die Wissenschaftler sind sich einig: Die Mut-Pille entfaltet ihre volle Wirkung, aber sie scheint auch die Fähigkeit zu beeinträchtigen, die Konsequenzen zu bedenken. "Man wird mutig", erklärt Dr. Ameise vom Institut für Tablettforschung, "aber man vergisst, dass Mut nicht immer die beste Strategie ist."</p>
+      <p>Herr Fischer nimmt die Pille nicht mehr. Er ist wieder schüchtern – aber dafür hat er jetzt eine lustige Geschichte und einen neuen Job als Sicherheitsberater für wagemutige Unternehmen. Denn eines hat er gelernt: Mut ist gut, aber manchmal ist es besser, einfach sitzen zu bleiben.</p>
     `
   }
 ];
