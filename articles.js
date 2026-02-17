@@ -322,21 +322,19 @@ const articles = [
     `
   },
   {
-    id: 38,
-    title: "Der Jaguar-Code: Genehmigung für den See",
-    summary: "Ein Live-Ticker über eine geheime Operation am See – und ihre unerwartete Wendung.",
-    author: "Nina Roth",
+    id: 39,
+    title: "Die Wiederaufbau-Episode: Wenn Frühaufsteher das Dorf retten",
+    summary: "Ein kleines Dorf fand eine ungewöhnliche Lösung für sein größtes Problem – und alle halfen mit.",
+    author: "Andrea Fuchs",
     date: "17.02.2026",
     category: "Skurril",
     bild: "platzhalter.jpg",
     content: `
-      <p>08:15: Am Ufer des Sees taucht ein Jaguar auf. Die Spaziergänger halten inne.</p>
-      <p>09:30: Der Tierpfleger Herr Fuchs trifft ein. "Wir brauchen eine Genehmigung", murmelt er.</p>
-      <p>10:45: Die Behörde antwortet: "Antrag genehmigt." Der Jaguar schaut verwirrt.</p>
-      <p>12:00: Der Jaguar entfernt sich vom Ufer. Er hat einen geheimen Code gefunden.</p>
-      <p>13:30: Herr Fuchs entdeckt eine Tinne am Seegrund. Der Code war nur ein Test.</p>
-      <p>14:45: Der Jaguar schwimmt davon. Die Genehmigung? Wurde nie gebraucht.</p>
-      <p>15:00: Der See bleibt geheim. Der Jaguar auch.</p>
+      <p>Es war früher Morgen, als der Bürgermeister von Kleinwalde die Nachricht erhielt: Das alte Rathaus musste dringend abgerissen werden. Die Fenster fielen bereits aus den Rahmen, das Dach war ein Loch. Ein Wiederaufbau war unausweichlich.</p>
+      <p>Doch das Dorf hatte kein Geld. Also beschloss der Bürgermeister, eine ungewöhnliche Methode zu versuchen. Er rief alle Frühaufsteher zusammen. "Wir brauchen euch", verkündete er. "Jeden Morgen, eine Stunde vor der Arbeit."</p>
+      <p>Die Reaktion war überwältigend. 47 Dorfbewohner erschienen pünktlich um 5 Uhr. Sie brachten Werkzeug mit, alte Ziegel, und vor allem: Motivation. Jeden Tag ein bisschen Wiederaufbau, jeden Tag ein neues Fenster, ein neuer Stein.</p>
+      <p>Nach drei Monaten war das Rathaus fertig. Die Episode wurde zur Legende. Heute kommen Touristen aus der ganzen Region, um das "Frühaufsteher-Rathaus" zu bestaunen.</p>
+      <p>Die Moral der Geschichte? Man braucht kein großes Budget – nur Menschen, die früh aufstehen und immer wieder anfangen.</p>
     `
   }
 ];
