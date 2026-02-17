@@ -161,7 +161,7 @@ const articles = [
       <p>Was als "nutzloser" Monat begann, wurde zum erfolgreichsten Forschungsprojekt des Jahres. Die "Februar-Initiative" sammelte Daten von Tausenden freiwilliger Neugieriger. Das Ergebnis: Je genauer die Menschen die Zeit beobachteten, desto mehr Antworten fanden sie – auf Fragen, die sie nie zu stellen gewagt hatten.</p>
       <p>Heute ist der Februar kein "nutzloser" Monat mehr. Er ist der Monat der Neugier. Und die Forscher? Sie arbeiten bereits am "starren März", in der Hoffnung, noch mehr Antworten zu finden.</p>
     `
-  }
+  },
   {
     id: 26,
     title: "Die Milch-Galerie: Wenn Kunst zum Flüsschen wird",
