@@ -245,5 +245,25 @@ const articles = [
       <p>Der Angeklagte verlässt den Saal. Sein Knie schmerzt.</p>
       <p>Protokollende. Aktenzeichen: 34 Js 227/26.</p>
     `
+  },
+  {
+    id: 32,
+    title: "Der Ruhm der Elefanten: Ein Interview über die ungewöhnlichste Karriere der Stadt",
+    summary: "Ein Mann behauptet, sein Essay über müßige Elefanten habe ihn zum berühmtesten Redner der Region gemacht.",
+    author: "Redaktion",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Herr Bernstein behauptet, durch einen Zufall zum Ruhm gekommen zu sein. Wir haben nachgefragt.</p>
+      <p>Frage: Herr Bernstein, Sie sind bekannt für Ihren Essay über müßige Elefanten. Wie fing alles an?</p>
+      <p>Antwort: Es war purer Zufall. Ich saß im Park, völlig unbekümmert, als mich ein Elefant anschaute. Er wirkte so – nun ja – desinteressiert. Da dachte ich: Das ist der Essay meines Lebens.</p>
+      <p>Frage: Und dieser Essay brachte Ihnen sofortigen Ruhm?</p>
+      <p>Antwort: Nicht sofort. Die Menschen waren zunächst ahnungslos. Niemand verstand, warum ein fauler Elefant interessant sein sollte. Doch dann teilte jemand den Text, und plötzlich war ich überall.</p>
+      <p>Frage: Was macht Ihren Essay so besonders?</p>
+      <p>Antwort: Er handelt von nichts Wichtigem. Keine Message, keine Moral. Nur ein Elefant, der nichts tut. Die Menschen waren davon völlig überrascht – und das ist genau der Punkt.</p>
+      <p>Frage: Was planen Sie als Nächstes?</p>
+      <p>Antwort: Ich schreibe einen Essay über nichts. Der Titel steht schon fest: "Das Nichts und seine Freunde". Es wird mein Meisterwerk – oder auch nicht.</p>
+    `
   }
 ];
