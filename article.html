@@ -182,8 +182,8 @@
         if (article) {
             let imageHtml = '';
             if (article.bild) {
-                if (article.bild === 'platzhalter.jpg') {
-                    article.bild = `https://picsum.photos/800/400?random=${article.id}`;
+                if (article.bild === 'platzhalter.jpg' || article.bild.includes("picsum.photos")) {
+                    article.bild = `https://picsum.photos/800/400?random=${articleId}`;
                 }
                 imageHtml = `<img src="${article.bild}" alt="${article.title}" class="article-image">`;
             }
