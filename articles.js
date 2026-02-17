@@ -30,19 +30,20 @@ const articles = [
     `
   },
   {
-    id: 15,
-    title: "Die Blumenspur: Ein Junggeselle auf dem Weg zum inneren Frieden",
-    summary: "Wie ein Einzelgänger versehentlich einerroseanen Fährte folgte und dabei sich selbst fand.",
-    author: "Klaus Werner",
-    date: "17.02.2026",
-    category: "Skurril",
+    id: 16,
+    title: "Der vergessene Filmclub: Wie Fringe-Town zum coolsten Ort wurde",
+    summary: "Eine vergessene Kleinstadt wurde zum Geheimtipp für Film-Enthusiasten – ganz ohne Werbung.",
+    author: "Lena Bergmann",
+    date: "12.02.2026",
+    category: "Kultur",
     bild: "platzhalter.jpg",
     content: `
-      <p>Es war an einem Dienstag, als Markus, ein überzeugter Junggeselle, beim Spaziergang im Park etwas Ungewöhnliches bemerkte: Eine Spur aus Blütenblättern führte vom Tennisplatz bis zur Bank am Teich. Normalerweise hätte er einfach weitergeschaut – schließlich war er nur auf der Suche nach dem perfekten Platz für sein Sandwich.</p>
-      <p>Aber heute war alles anders. Die Neugier siegte, und Markus folgte der Blumenspur. Mal führte sie um die Ecke, mal mitten durch das Gebüsch. Er fragte sich, ob das die neue Trend-Sportart war: Blumen-Parkour.</p>
-      <p>Nach einer Stunde fand er sich am anderen Ende des Parks wieder – dort, wo normalerweise nur die Enten baden. Aber anstatt genervt zu sein, setzte er sich auf die Bank und lachte zum ersten Mal seit Wochen. Die Spaziergänger schauten komisch, aber das war ihm egal.</p>
-      <p>Als er nach Hause ging, pflückte er ein einzelnes Blütenblatt und steckte es in seine Jackentasche. Am nächsten Tag fand er es wieder – zerknittert, aber immer noch duftend. Er lächelte. Vielleicht war das der Frieden, nach dem er immer gesucht hatte.</p>
-      <p>Die Blumenspur war verschwunden, aber ihre Bedeutung blieb. Markus hat seitdem eine neue Gewohnheit: Jeden Sonntag legt er eine neue Spur im Park. Wer sie findet, darf sein Geheimnis behalten.</p>
+      <p>Es war einmal eine Stadt am Rande von allem – buchstäblich. Fringe-Town, wie die Einheimischen ihre Heimat liebevoll nannten, hatte nichts außer einem verlassenen Kinosaal und jeder Menge Zeit. Die Jugendlichen langweilten sich so sehr, dass sie anfingen, ihre eigenen Filme zu drehen.</p>
+      <p>Alles begann mit einem simplen Gedanken: Warum nicht die langweiligen Werbepausen mit selbstgemachten Clips füllen? Die ersten Versuche waren chaotisch, wackelig und absolut nicht professionell. Aber irgendwie waren sie auch... cool.</p>
+      <p>Der Durchbruch kam, als der lokale Fernsehsender – ja, Fringe-Town hatte tatsächlich einen – beschloss, die Filme auszustrahlen. Niemand weiß genau, warum. Manche behaupten, der Senderleiter war betrunken. Andere meinen, er habe die Idee einfach nur lustig gefunden.</p>
+      <p>Was auch immer der Grund war: Die Filme wurden zum Hit. Plötzlich tauchten Filmemacher aus der ganzen Gegend auf, um das Geheimnis zu lüften. Die Antwort war einfach: Man musste einfach alles weglassen, was offiziell klang. Keine Drehbücher, keine Genehmigungen, keine Ahnung.</p>
+      <p>Heute ist Fringe-Town ein Pilgerort für alle, die das echte Kino suchen – das eine, das nicht in den großen Studios, sondern in kleinen Herzen entsteht. Die Tickets sind billig, der Popcorn ist salzig, und die Filme sind absolut unvorhersehbar. Und das Beste: Man kann nach dem Film noch beim Bäcker nebenan einen Kaffee trinken.</p>
+      <p>Wer also mal was anderes erleben will, sollte Fringe-Town besuchen. Und falls jemand fragt, wie man das gefunden hat: Man hat einfach die offiziellen Reiseführer ignoriert – beziehungsweise weggelassen.</p>
     `
   }
 ];
