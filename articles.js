@@ -265,5 +265,25 @@ const articles = [
       <p>Frage: Was planen Sie als Nächstes?</p>
       <p>Antwort: Ich schreibe einen Essay über nichts. Der Titel steht schon fest: "Das Nichts und seine Freunde". Es wird mein Meisterwerk – oder auch nicht.</p>
     `
+  },
+  {
+    id: 33,
+    title: "Vom Streifenwagen in den Cockpit: Ein ungewöhnlicher Karrierewechsel",
+    summary: "Ex-Polizist Karl Brunner erzählt, wie sein größter Wunsch ihn vom Streifendienst direkt in den Pilotensitz führte.",
+    author: "Redaktion",
+    date: "17.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Karl Brunner war acht Jahre lang bei der Polizei. Dann gab er alles auf, um Pilot zu werden. Wir haben mit ihm über seinen ungewöhnlichen Werdegang gesprochen.</p>
+      <p>Frage: Herr Brunner, wie kam es zu diesem drastischen Karrierewechsel?</p>
+      <p>Antwort: Es war mein größter Wunsch seit meiner Kindheit. Ich saß immer bei meiner Oma am Fenster und beobachtete die Flugzeuge. Als ich dann bei der Polizei war, dachte ich: Das ist nicht das, wofür ich bestimmt bin. Also habe ich meinen Wunsch wahrgemacht.</p>
+      <p>Frage: Wie war der Übergang vom Polizeidienst zum Fliegen?</p>
+      <p>Antwort: Raw! So fühlt sich das an, wenn man plötzlich alles neu lernen muss. Keine Gesetze mehr, nur Physik und Meteorologie. Die/raw Kollegen haben mich ausgelacht. Aber ich habe durchgehalten.</p>
+      <p>Frage: Gab es einen Moment, in dem sich alles verändert hat?</p>
+      <p>Antwort: Mein erstes Solo. Die Maschine hebt ab und plötzlich entfaltet sich die ganze Welt unter mir. Dieses Gefühl kann ich nur als kosmisch beschreiben. Alles/unfoldelt sich – der Himmel, die Wolken, mein neues Leben.</p>
+      <p>Frage: Was vermissen Sie am meisten am Polizeidienst?</p>
+      <p>Antwort: Die Kameradschaft. Im Cockpit ist man oft allein. Aber hey, dafür sehe ich jeden Tag den Sonnenaufgang über den Wolken. Das ist mein persönlicher Dienstausweis für das Leben.</p>
+    `
   }
 ];
