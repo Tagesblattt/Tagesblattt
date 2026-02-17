@@ -110,20 +110,20 @@ const articles = [
     `
   },
   {
-    id: 22,
-    title: "Die Mut-Pille: Wenn Kühnheit zum Alltagsproblem wird",
-    summary: "Ein skurriles Medikament verspricht mehr Mut – doch die Nebenwirkungen sind bizarr.",
-    author: "Julia Hartmann",
+    id: 23,
+    title: "Der Leerführer: Wenn die Niere zum beliebtesten Souvenir wird",
+    summary: "Ein skurriler Fremdenführer bietet Touren durch leere Gebäude an – und die Menschen lieben es.",
+    author: "Anna Schmidt",
     date: "17.02.2026",
     category: "Skurril",
     bild: "platzhalter.jpg",
     content: `
-      <p>Es war ein gewöhnlicher Donnerstag, als Herr Fischer in der Apotheke seines Vertrauens nach einem Mittel gegen seine Schüchternheit fragte. Der Apotheker, ein Mann mit viel zu viel Freude an Experimenten, reichte ihm eine kleine blaue Tablette. "Die Mut-Pille", sagte er geheimnisvoll. "Einmal täglich, und du wirst Dinge tun, die du dir nie zu träumen gewagt hast."</p>
-      <p>Herr Fischer war skeptisch, aber auch neugierig. Er schluckte die Pille am nächsten Morgen – und sofort begann etwas Seltsames zu passieren. Als er im Bus saß, überkam ihn plötzlich der unbändige Drang, laut "Halt die Klappe!" zu rufen, nur um zu sehen, ob er es wirklich würde tun können.</p>
-      <p>Die Pille wirkte. Sie wirkte sogar zu gut. Im Büro angekommen, trat Herr Fischer mutig auf seinen Chef zu und sagte ihm genau seine Meinung – über die veralteten Aktenordner, den schrecklichen Kaffee und die unmögliche Schreibtischlampe. Sein Chef war schockiert, aber auch irgendwie beeindruckt.</p>
-      <p>Doch damit nicht genug. Auf dem Heimweg blieb Herr Fischer vor einem Denkmal stehen und fühlte den überwältigenden Drang, darauf zu klettern. Er kletterte. Die Passanten jubelten – oder riefen die Polizei. Es war schwer zu unterscheiden.</p>
-      <p>Die Wissenschaftler sind sich einig: Die Mut-Pille entfaltet ihre volle Wirkung, aber sie scheint auch die Fähigkeit zu beeinträchtigen, die Konsequenzen zu bedenken. "Man wird mutig", erklärt Dr. Ameise vom Institut für Tablettforschung, "aber man vergisst, dass Mut nicht immer die beste Strategie ist."</p>
-      <p>Herr Fischer nimmt die Pille nicht mehr. Er ist wieder schüchtern – aber dafür hat er jetzt eine lustige Geschichte und einen neuen Job als Sicherheitsberater für wagemutige Unternehmen. Denn eines hat er gelernt: Mut ist gut, aber manchmal ist es besser, einfach sitzen zu bleiben.</p>
+      <p>Es war ein gewöhnlicher Samstag, als Herr Grün sich entschied, etwas vollkommen Neues zu versuchen. Er schnappte sich ein verwittertes Schild, band sich einen zerknitterten Umhang um – und wurde zum "Leerführer". Seine Spezialität? Führungen durch Gebäude, die absolut nichts enthielten.</p>
+      <p>"Willkommen bei der Ultimativen Nichts-Tour", begrüßte er seine erste Gruppe. Die Touristen schauten sich um: ein leeres Lagerhaus, null Fenster, null Möbel. "Hier stand früher die berühmte Nierenfabrik", erzählte Herr Grün mit ernster Miene. "Sie stellten die hässlichsten Nieren der Welt her – aus Porzellan, Plastik, Stoff. Die Einheimischen nannten sie das 'Void-Stuff'."</p>
+      <p>Die Touristen lauschten fasziniert. Obwohl da nichts war – keine Maschinen, keine Nieren, kein Zeug – begannen sie, die leeren Ecken zu fotografieren. "Das ist das Schönste daran", erklärte Herr Grün, "man kann die Leere förmlich spüren. Das ist authentisch."</p>
+      <p>Der Clou: Herr Grün verkaufte Souvenirs. Kleine, unsichtbare Andenken. "Sie können sich nicht vorstellen, wie beliebt die hässlichen Porzellan-Nieren sind", grinste er. "Die Touristen lieben das Void-Zeug. Es ist so schön, weil es nicht existiert."</p>
+      <p>Experten sind begeistert. "Wir nennen es den 'Voidismus'", erklärt Kultursoziologe Dr. Huber. "Die Menschen sehnen sich nach der Leere. Nach dem Nichts. Herr Grün hat das erkannt – und vermarktet es perfekt."</p>
+      <p>Heute bietet der Leerführer drei Touren täglich an. Die Warteliste ist drei Monate voll. Und das Beste: Die Teilnehmer gehen mit dem Gefühl nach Hause, etwas Einzigartiges erlebt zu haben – obwohl da nie etwas war.</p>
     `
   }
 ];
