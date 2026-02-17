@@ -217,5 +217,22 @@ const articles = [
       <p>6/7: Ich gehe mit ihm rein. Der Turm ist nass von innen. Überall Rosen. Hunderte. Alle nass. Alle feucht. Er bietet mir einen Tee an. Ich will nur meine Rose zurück.</p>
       <p>7/7: tl;dr: Meine Rose ist jetzt Teil einer WG. Der Typ sagt, sie stay't jetzt im Turm. Mit anderen Rosen. Gemeinsam. Es ist so nass hier. Ich gehe nach Hause. Ohne Rose. Dafür mit Erkältung.</p>
     `
+  },
+  {
+    id: 30,
+    title: "Die Gezeiten meiner Kindheit: Eine Reise zum vergessenen Ufer",
+    summary: "Ein Reisebericht über unerwartete Erinnerungen und die Magie des Meeres.",
+    author: "Marina Seebach",
+    date: "17.02.2026",
+    category: "Reisen",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Der Strand lag da wie ein schlafender Riese, als ich ihn das erste Mal betrat. Das Meer war ruhig, die Gezeiten schienen zu flüstern. Ich war nur hierhergekommen, um meine Gedanken zu ordnen – doch das Meer hatte andere Pläne.</p>
+      <p>Ich lief barfuß über den warmen Sand, während die Wellen sanft meine Füße umschmeichelten. In der Ferne sah ich ein verlassenes Strandhaus, dessen Fenster wie Augen in die Welt starrten. Die Farbe blätterte ab, aber es hatte etwas Magisches.</p>
+      <p>Plötzlich bemerkte ich etwas im Sand: Ein alter, verwitterter Holzarm lag halb im Sand vergraben. Nicht etwa eine Prothese – nein, ein decorative Kunstwerk,formt wie ge eine Hand mit ausgestreckten Fingern. Daneben: Haare. Echte menschliche Haare, zu einem seltsamen Muster verflochten.</p>
+      <p>Mein Herz schlug schneller. Was hatte das zu bedeuten? Ich grub weiter und fand eine alte Flaschenpost. Der Brief darin war verblasst, aber lesbar: "Wer dies findet, soll wissen: Das Meer gibt alles zurück, was man ihm anvertraut."</p>
+      <p>Ich starrte auf den Holzarm, auf die Haare, auf den Brief. Das Meer hatte meine eigene Kindheit hierhergespült – Erinnerungen an meinen Großvater, der mir erzählt hatte, dass das Meer alle Geheimnisse aufbewahrt.</p>
+      <p>Am Abend saß ich am Strand und sah zu, wie die Sonne im Meer versank. Die Gezeiten hatten mich heute etwas gelehrt: Manche Erinnerungen vergisst man nicht – sie warten nur darauf, vom Meer an Land gespült zu werden.</p>
+    `
   }
 ];
