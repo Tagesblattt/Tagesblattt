@@ -399,5 +399,23 @@ const articles = [
       <p>Am Ende meiner Reise kaufte ich meinen eigenen Blitzhut. Nicht weil ich ihn brauchte – sondern weil er mich an etwas erinnerte, das ich fast vergessen hatte: dass es manchmal die absurdesten Dinge sind, die uns am besten schützen. Meine neugierige Seite – curious bis zum Schluss – hat mir gezeigt, dass nicht alles einen Sinn ergeben muss. Manchmal reicht es einfach, dass es funktioniert.</p>
       <p>Zurück im Alltag sitze ich oft am Fenster und warte auf Blitze. Sie kommen selten. Aber wenn sie kommen, denke ich an Lumenstadt, an meinen Blitzhut und daran, dass die seltsamsten Verteidigungen manchmal die klügsten sind.</p>
     `
+  },
+  {
+    id: 45,
+    title: "Das Geheimnis der Welpen zwischen den Grundstücken",
+    summary: "Unsere Investigativ-Recherche deckt auf: Ein mysteriöses Phänomen bewegt die Gemüter in einem idyllischen Villenviertel – und niemand weiß, warum.",
+    author: "Klaus-Dieter Haller",
+    date: "18.02.2026",
+    category: "Investigativ",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es begann mit einem anonymen Brief. "Zwischen den Grundstücken passiert etwas Unfassbares", stand dort, in handschriftlichen Lettern, die nach jahrelanger Übung aussahen. "Die Welpen. Sie wissen mehr als wir."</p>
+      <p>Unsere Recherche führt uns in das sonst so beschauliche Villenviertel von Seedorf. Hier, zwischen makellosen Grundstücken mit perfekt getrimmten Hecken, scheint alles clean – zu clean, wie einige Anwohner flüstern.</p>
+      <p>Ein langjähriger Bewohner, der namentlich nicht genannt werden möchte, berichtet unter Zusicherung der Anonymität: "Es begann vor drei Monaten. Jeden Morgen fand ich Welpen auf meinem Grundstück. Nie dieselbe Rasse. Immer dieselbe Frage in den Augen: Warum gerade hier, between den Grundstücken?"</p>
+      <p>Die Polizei schweigt zu den Vorfällen. Auf unsere Anfrage erhielten wir lediglich eine standardisierte Antwort: "Wir prüfen den Sachverhalt." Doch die Anwohner sind sich sicher: Irgendjemand züchtet die Tiere irgendwo – und nutzt die Grundstücke zwischen den Villen als geheime Übergabezone.</p>
+      <p>Die Dokumente, die wir einsehen konnten, offenbaren einen bizarr anmutenden Verdacht: Ein ortsansässiger Züchter, bekannt unter dem Decknamen "Mr. Clean", soll systematisch Welpen between den Grundstücken verteilen – angeblich zur " artgerechten Verteilung".</p>
+      <p>Wir konfrontierten den Verdächtigen mit unseren Erkenntnisse. Er lächelte nur, streichelte einen kleinen Welpen und sagte: "Die Wahrheit liegt nicht in den Grundstücken. Sie liegt in den Augen der Hunde." Dann schloss er die Tür.</p>
+      <p>Die Frage bleibt: Wer steckt wirklich hinter dem Welpen-Netzwerk? Die Antwort könnte in den Akten eines Gerichts liegen – oder in den Augen eines treuen Tieres, das mehr zu wissen scheint, als es jemals zugeben würde.</p>
+    `
   }
 ];
