@@ -362,23 +362,22 @@ const articles = [
   }
 ,
   {
-    id: 42,
-    title: "Der Blatt-Analytiker: Wie ein Diagramm den Glückszyklus erklärt",
-    summary: "Ein skurriler Mann behauptet, durch die Analyse von Blättern das perfekte Glücksdiagramm erstellt zu haben – wir haben nachgefragt.",
-    author: "Nina Wolters",
+    id: 43,
+    title: "Der Sustainable-Diamond-Ticker: Barrel und Magen in Aufruhr",
+    summary: "Ein skurriler Live-Ticker über die ungewöhnlichste Pressekonferenz des Jahres – mit unerwartetem Ausgang.",
+    author: "Redaktion",
     date: "18.02.2026",
     category: "Skurril",
     bild: "platzhalter.jpg",
     content: `
-      <p>Herr Grün behauptet, durch jahrelange Forschung das Geheimnis des Glücks entschlüsselt zu haben – mithilfe von Blättern. Wir haben ihn in seinem vollgestopften Büro besucht.</p>
-      <p>Frage: Herr Grün, wie sind Sie auf die Idee gekommen, Glück mit Blättern zu analysieren?</p>
-      <p>Antwort: Es war ein Herbstabend. Ein einzelnes Blatt fiel auf meinen Schreibtisch. Ich schaute es mir an – und plötzlich sah ich das Muster. Die Adern des Blattes bildeten ein perfektes Diagramm. Da wusste ich: Das ist die Antwort.</p>
-      <p>Frage: Was sagt dieses Diagramm genau?</p>
-      <p>Antwort: Es zeigt den Glückszyklus. Jedes Blatt durchläuft fünf Phasen: Wachsen, Grünen, Vergilben, Fallen, Vergehen. Und genau das passiert auch mit unserem Glück. Wir blühen auf, werden traurig, fallen – und dann beginnt ein neuer Zyklus.</p>
-      <p>Frage: Und was hat das mit Ihrem Konto zu tun?</p>
-      <p>Antwort: Jeder Mensch hat ein unsichtbares Glückskonto. Wenn Sie glücklich sind, zahlen Sie ein. Wenn Sie unglücklich sind, zahlen Sie aus. Die Blätter zeigen mir, wann das Konto überläuft – und wann es leer ist.</p>
-      <p>Frage: Sind Sie denn selbst happy mit Ihrer Entdeckung?</p>
-      <p>Antwort: (lacht) Ich bin der glücklichste Mensch der Welt. Mein Blatt-Diagramm zeigt mir jeden Morgen, wie mein Zyklus verläuft. Und wissen Sie was? Heute ist ein guter Tag. Das Blatt ist grün.</p>
+      <p>08:45: Die Pressekonferenz beginnt. Der Sprecher betritt das Podium. In der Hand hält er einen glitzernden Gegenstand. "Das ist der erste sustainable Diamond der Welt", verkündet er stolz.</p>
+      <p>09:12: Die Journalisten murmeln. Ein verb wird auf die Bühne getragen. Es ist riesig. Der Sprecher erklärt: "Dieses Verb wird die Zukunft verändern." Niemand versteht warum.</p>
+      <p>10:30: Plötzlich rollt ein Fass – ein Barrel – in den Saal. Das Barrel ist randvoll mit einer mysteriösen Flüssigkeit. Der Sprecher lächelt: "Nachhaltigkeit ist das neue Gold."</p>
+      <p>11:45: Die Stimmung kippt. Ein Journalist fragt: "Was hat das mit dem Magen zu tun?" Der Spreger zögert. Sein eigener Magen – stomach – beginnt zu knurren.</p>
+      <p>12:20: Der Höhepunkt: Der Sprecher greift in das Barrel, zieht eine Handvoll Flüssigkeit heraus und trinkt sie. "Das ist der neue Trend", ruft er. "Trinkbarer Diamant!"</p>
+      <p>12:58: Die Feuerwehr wird gerufen. Der Sprecher hat einen allergischen Reaktion. Sein Magen – stomach – rebelliert. Das sustainable Diamond glüht grün.</p>
+      <p>13:30: Die Pressekonferenz endet chaotisch. Das Barrel wird versiegelt. Der Verb verschwindet. Der Diamond? Der landet im Magen eines erstaunten Sanitäters.</p>
+      <p>14:02: Update: Der Sprecher postet ein Foto von sich im Krankenhaus. Caption: "Der nachhaltigste Moment meines Lebens."</p>
     `
   }
 ];
