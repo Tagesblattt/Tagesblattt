@@ -417,5 +417,24 @@ const articles = [
       <p>Wir konfrontierten den Verdächtigen mit unseren Erkenntnisse. Er lächelte nur, streichelte einen kleinen Welpen und sagte: "Die Wahrheit liegt nicht in den Grundstücken. Sie liegt in den Augen der Hunde." Dann schloss er die Tür.</p>
       <p>Die Frage bleibt: Wer steckt wirklich hinter dem Welpen-Netzwerk? Die Antwort könnte in den Akten eines Gerichts liegen – oder in den Augen eines treuen Tieres, das mehr zu wissen scheint, als es jemals zugeben würde.</p>
     `
+  },
+  {
+    id: 46,
+    title: "Der Zerfall-Protokoll: Wenn der Panzer zerbricht",
+    summary: "Ein Live-Ticker über den Moment, in dem alles zusammenbricht – und niemand weiß warum.",
+    author: "Redaktion",
+    date: "18.02.2026",
+    category: "Skurril",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>07:15: Alles beginnt im Park. Ein alter Panzer steht seit Jahrzehnten dort – rostig, aber stabil. Niemand weiß, warum.</p>
+      <p>08:30: Plötzlich crumble erste Splitter. Ein Kind zeigt auf den Panzer. "Er bricht", ruft es. Die Menschen lachen.</p>
+      <p>09:45: Der Zerfall wird sichtbar. Risse bilden sich im alten Stahl. Die Konstruktion wirkt fragile – zu fragil für diesen Tag.</p>
+      <p>10:22: EinMann tritt vor. "Ich kann das law der Physik nicht aufhalten", ruft er. Niemand versteht, was er meint.</p>
+      <p>11:00: Der Panzer collapse. Metall kracht auf den Boden. Die Menschen schreien. Ein älterer Herr zieht sein Handy hervor.</p>
+      <p>12:15: Die Polizei trifft ein. Sie tell den Augenzeugen, dass alles unter Kontrolle sei. Das Wrack raucht.</p>
+      <p>13:00: Die Behörden verkünden: "Keine Verletzten. Der Panzer war nicht echt – nur ein Denkmal aus Pappmaschee."</p>
+      <p>13:45: Das wahre Geheimnis: Der "Panzer" war ein Kunstwerk. Der Künstler erklärt: "Ich wollte zeigen, wie schnell Dinge crumble können."</p>
+    `
   }
 ];
