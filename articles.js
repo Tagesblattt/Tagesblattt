@@ -379,5 +379,25 @@ const articles = [
       <p>13:30: Die Pressekonferenz endet chaotisch. Das Barrel wird versiegelt. Der Verb verschwindet. Der Diamond? Der landet im Magen eines erstaunten Sanitäters.</p>
       <p>14:02: Update: Der Sprecher postet ein Foto von sich im Krankenhaus. Caption: "Der nachhaltigste Moment meines Lebens."</p>
     `
+  },
+  {
+    id: 44,
+    title: "Der Blitzhut: Wie ich in Lumenstadt die Verteidigung lernte",
+    summary: "Eine seltsame Stadt, ein geheimnisvoller Hut und eine Lektion, die ich nie vergessen werde.",
+    author: "Der Reisende",
+    date: "10.02.2026",
+    category: "Reise",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es war ein warmer Abend im Februar, als ich zum ersten Mal von Lumenstadt hörte. Niemand kannte diesen Ort auf meiner Karte. Aber mein neugieriger Geist – ich war schon immer curious, wie meine Mutter sagte – trieb mich weiter. Ein Tipp von einem alten Mann am Bahnhof lautete: "Wenn du den Blitz fürchtest, geh nach Lumenstadt. Dort ist alles legal geregelt."</p>
+      <p>Der Zug fuhr durch endlose Felder, und plötzlich sah ich ihn: Einen Lichtblitz am Horizont, so hell, dass ich die Augen zusammenkneifen musste. Die Stadt lag da wie ein glitzerndes Juwel in der Dunkelheit. Die Lichter der Gebäude flackerten in regelmäßigen Abständen – ein seltsamer Rhythmus, fast wie ein Herzschlag.</p>
+      <p>Als ich ankam, fiel mir sofort auf: Jeder Einwohner trug einen seltsamen Hut. Nicht irgendeinen Hut – es waren metallene Konstruktionen, die wie Mini-Blitzableiter aussahen. "Das ist der Blitzhut", erklärte mir eine Frau an der Rezeption meines kleinen Hotels. "Er ist unsere defense gegen die Blitze. Hier in Lumenstadt ist das Tragen nicht optional – es ist Pflicht."</p>
+      <p>Ich war fasziniert. Am nächsten Tag mietete ich mir meinen eigenen Blitzhut und machte mich auf, die Stadt zu erkunden. Die Gebäude waren hoch und schmal, die Straßen gepflastert mit seltsamen Mustern, die wie elektrische Schaltkreise aussahen. Überall gab es Hinweisschilder: "Blitzgefahr! Hut tragen!"</p>
+      <p>Und dann geschah es. Mitten auf dem Marktplatz – einem großen runden Platz mit einem Brunnen in der Mitte – zuckte ein Blitz vom Himmel. Er war so hell, dass alles weiß aufleuchtete. Ich erstarrte. Aber mein Blitzhut fing die Energie auf, leitete sie durch einen dünnen Draht in den Boden ab. Der Blitz – ein einziger, gewaltiger flash – hatte mich nicht getroffen. Ich war sicher.</p>
+      <p>Die Menschen um mich herum klatschten. "Willkommen in Lumenstadt", sagten sie. "Du hast bestanden."</p>
+      <p>Ich verbrachte drei weitere Tage in dieser seltsamen Stadt. Jeden Abend gab es eine "Blitzshow", bei der die Bewohner ihre Hüte präsentierten – manche buntsillernd, andere schlicht, aber alle mit dem gleichen Zweck: defense gegen das Unvorhersehbare.</p>
+      <p>Am Ende meiner Reise kaufte ich meinen eigenen Blitzhut. Nicht weil ich ihn brauchte – sondern weil er mich an etwas erinnerte, das ich fast vergessen hatte: dass es manchmal die absurdesten Dinge sind, die uns am besten schützen. Meine neugierige Seite – curious bis zum Schluss – hat mir gezeigt, dass nicht alles einen Sinn ergeben muss. Manchmal reicht es einfach, dass es funktioniert.</p>
+      <p>Zurück im Alltag sitze ich oft am Fenster und warte auf Blitze. Sie kommen selten. Aber wenn sie kommen, denke ich an Lumenstadt, an meinen Blitzhut und daran, dass die seltsamsten Verteidigungen manchmal die klügsten sind.</p>
+    `
   }
 ];
