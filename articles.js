@@ -419,22 +419,30 @@ const articles = [
     `
   },
   {
-    id: 46,
-    title: "Der Zerfall-Protokoll: Wenn der Panzer zerbricht",
-    summary: "Ein Live-Ticker über den Moment, in dem alles zusammenbricht – und niemand weiß warum.",
-    author: "Redaktion",
-    date: "18.02.2026",
+    id: 47,
+    title: "Der Rollen-Prozess: Strom und Stahl vor Gericht",
+    summary: "Ein ungewöhnlicher Gerichtsfall sorgt für Aufregung – ein rotierendes Rad wird zum zentralen Beweismittel.",
+    author: "Dr. Friedrich Braun",
+    date: "19.02.2026",
     category: "Skurril",
     bild: "platzhalter.jpg",
     content: `
-      <p>07:15: Alles beginnt im Park. Ein alter Panzer steht seit Jahrzehnten dort – rostig, aber stabil. Niemand weiß, warum.</p>
-      <p>08:30: Plötzlich crumble erste Splitter. Ein Kind zeigt auf den Panzer. "Er bricht", ruft es. Die Menschen lachen.</p>
-      <p>09:45: Der Zerfall wird sichtbar. Risse bilden sich im alten Stahl. Die Konstruktion wirkt fragile – zu fragil für diesen Tag.</p>
-      <p>10:22: EinMann tritt vor. "Ich kann das law der Physik nicht aufhalten", ruft er. Niemand versteht, was er meint.</p>
-      <p>11:00: Der Panzer collapse. Metall kracht auf den Boden. Die Menschen schreien. Ein älterer Herr zieht sein Handy hervor.</p>
-      <p>12:15: Die Polizei trifft ein. Sie tell den Augenzeugen, dass alles unter Kontrolle sei. Das Wrack raucht.</p>
-      <p>13:00: Die Behörden verkünden: "Keine Verletzten. Der Panzer war nicht echt – nur ein Denkmal aus Pappmaschee."</p>
-      <p>13:45: Das wahre Geheimnis: Der "Panzer" war ein Kunstwerk. Der Künstler erklärt: "Ich wollte zeigen, wie schnell Dinge crumble können."</p>
+      <p>Verhandlungstag im Amtsgericht. Der Richter nimmt Platz. Die Angeklagte Frau Meier wird hereingeführt.</p>
+      <p>Richter: Frau Meier, Sie sind angeklagt, am 3. Februar dieses Jahres widerrechtlich einen elektrischen Gegenstand in Betrieb genommen zu haben. Wie plädieren Sie?</p>
+      <p>Angeklagter: Nicht schuldig, Herr Richter. Ich habe lediglich mein Haushaltsgerät angeschlossen. Das ist kein Verbrechen.</p>
+      <p>Richter: Der Zeuge Herr Schulze hat ausgesagt, er habe in Ihrer Wohnung ein seltsames Geräusch gehört. Ein summendes Geräusch, das seinen eigenen Stromzähler beeinflusst habe.</p>
+      <p>Angeklagter: Das war das Rad. Das elektrische Rad in meiner Maschine. Es dreht sich, wenn der Strom fließt. Das ist normal.</p>
+      <p>Zeuge: Sie hat nicht nur ein Gerät angeschlossen. Sie hat etwas mit dem Strom verändert. Der current in meiner Wohnung hat sich alteriert.</p>
+      <p>Richter: Herr Zeuge, können Sie das konkretisieren?</p>
+      <p>Zeuge: Ja. Als ich den Schalter betätigte, begann alles zu rotieren. Das Rad, die Lichter, selbst mein Stromzähler. Es war, als würde sich die gesamte Elektrizität in meiner Wohnung reflectieren.</p>
+      <p>Angeklagter: Das ist eine Übertreibung. Ich habe lediglich einen Ball in die Maschine gelegt. Einen speziellen Ball, der die Wäsche reinigen soll.</p>
+      <p>Richter: Einen Ball?</p>
+      <p>Angeklagter: Ja. Einen Waschball. Er soll die Kleidung reinigen, ohne Waschmittel. Das ist ein Experiment.</p>
+      <p>Richter: Das Gericht zieht sich zur Beratung zurück.</p>
+      <p>Nach zwei Stunden verkündet der Richter das Urteil.</p>
+      <p>Richter: Das Gericht verurteilt Frau Meier zu einer Geldstrafe von 300 Euro wegen widerrechtlicher Stromnutzung. Das Experiment mit dem Waschball ist nicht genehmigt. Die Lampe in Herrn Schulzes Wohnung bleibt installiert.</p>
+      <p>Die Angeklagte verlässt den Saal. Das Rad dreht sich weiter.</p>
+      <p>Protokollende. Aktenzeichen: 45 Js 889/26.</p>
     `
   }
 ];
