@@ -444,5 +444,26 @@ const articles = [
       <p>Die Angeklagte verlässt den Saal. Das Rad dreht sich weiter.</p>
       <p>Protokollende. Aktenzeichen: 45 Js 889/26.</p>
     `
+  },
+  {
+    id: 48,
+    title: "Die Echo-Auktion: Mein unerwarteter Tag in Warmhafen",
+    summary: "Eine Reise in das kleine Küstenstädtchen, wo eine ungewöhnliche Auktion alles veränderte – und ich fast zum Meistbietenden wurde.",
+    author: "Der Reisende",
+    date: "20.02.2026",
+    category: "Reise",
+    bild: "platzhalter.jpg",
+    content: `
+      <p>Es war ein warmer Morgen im Februar, als ich das kleine Städtchen Warmhafen zum ersten Mal sah. Die Sonne glitzerte auf dem Wasser, und der salzige Wind trug den Geruch von Fisch und Abenteuer zu mir. Ich war auf der Durchreise – oder glaubte es zumindest.</p>
+      <p>Warmhafen lag versteckt zwischen zwei Hügeln, so als hätte die Zeit diesen Ort vergessen. Die Häuser waren alt, die Gassen schmal, und überall hingen bunte Wimpel, die im Wind wiegten. Ein Schild am Eingang verkündete: "Willkommen in Warmhafen – hier klingt alles anders."</p>
+      <p>Ich spazierte durch die engen Straßen, vorbei an kleinen Läden und gemütlichen Cafés. Überall hörte ich ein leises Echo – nicht von meiner Stimme, sondern von etwas anderem. Es war, als würde die Stadt selbst auf eine unsichtbare Melodie antworten.</p>
+      <p>Am Marktplatz angekommen, sah ich eine Menschenansammlung. Ein Mann stand auf einem Podium und rief: "Die Auktion beginnt! Heute versteigern wir... die Geräusche des Meeres!" Ich lachte. Das musste ein Scherz sein. Aber die Menge war todernst.</p>
+      <p>Die erste Auktion war bemerkenswert – ein Gefäß mit dem reinen Klang der Wellen, eingefangen in einer leeren Flasche. Der Bieterwettbewerb war heftig. Dann kam das zweite Los: "Das Echo des Leuchtturms" – ein seltsamer, tiefer Ton, der angeblich nur einmal im Jahr zu hören war. Die Gebote stiegen rapid.</p>
+      <p>Ich konnte nicht widerstehen. Als das dritte Los aufgerufen wurde – "Das advance des Windes" – hob ich meine Hand. Niemand sonst bot. Der Auktionator lächelte. "Für Sie, junger Mann. Ein besonderer Preis für einen notable Gast."</p>
+      <p>Ich hatte keine Ahnung, was ich ersteigert hatte. Der Auktionator reichte mir ein kleines, gläsernes Fläschchen. Darin: ein leiser, warmer Ton, der wie das Wispern des Meeres klang. "Das advance des Windes", erklärte er. "Es wird Ihnen zeigen, wohin Sie gehen sollen."</p>
+      <p>Ich verließ Warmhafen am Nachmittag, das Fläschchen fest in meiner Tasche. Als ich es öffnete, hörte ich einen leisen Ton – und wusste plötzlich, dass dies nicht meine letzte Reise sein würde.</p>
+      <p>Zurück im Alltag steht das Fläschchen auf meinem Schreibtisch. Manchmal, wenn ich den warmen Ton höre, denke ich an Warmhafen, an die Menschen und an die merkwürdige Auktion. Es war nicht die Aussicht, die mich beeindruckte – es war die Erkenntnis, dass manche Orte ihre Geheimnisse nur denen revealen, die zuhören können.</p>
+      <p>Warmhafen hat mir gezeigt, dass die besten Reisen die sind, bei denen man nicht weiß, was einen erwartet. Manchmal ist das Unerwartete das größte Geschenk. Und das echo? Das trage ich noch heute in mir.</p>
+    `
   }
 ];
